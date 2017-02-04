@@ -17,11 +17,11 @@ function getAllLiContents(html) {
     return matches;
 }
 
-function retreiveNames(html) {
+function parseNames(html) {
     const ulHtml = getUlHtml(html);
     if (ulHtml.indexOf('<li') === -1) return [];
 
     return getAllLiContents(ulHtml)
 }
 
-module.exports = retreiveNames;
+module.exports = parseNames;
