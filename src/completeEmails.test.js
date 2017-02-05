@@ -11,13 +11,16 @@ test('completes one email', done => {
 });
 
 test('completes many emails', done => {
+    const expectedArray = [
+        'vasya@hotmail.com', 'vanya@hotmail.com', 'petya@hotmail.com',
+        'olya@hotmail.com', 'kira@hotmail.com', 'pasha@hotmail.com',
+        'sasha@hotmail.com', 'seryozha@hotmail.com'
+    ];
+
     completeEmails({ managersForQuery }, 'a@hotmail.com')
         .then(response => {
-            expect(response).toEqual([
-                'vasya@hotmail.com', 'vanya@hotmail.com', 'petya@hotmail.com',
-                'olya@hotmail.com', 'kira@hotmail.com', 'pasha@hotmail.com',
-                'sasha@hotmail.com', 'seryozha@hotmail.com'
-            ]);
+            expect(response.length).toBe(expectedArray.length);
+            expect(response).toEqual(expect.arrayContaining(expectedArray));
             done();
         })
         .catch(reason => console.error(reason));

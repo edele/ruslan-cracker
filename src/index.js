@@ -6,11 +6,11 @@ const managersForQuery = managersForQueryUninjected.bind(null, { getHtml });
 
 const logger = {
     log(message) {
-        console.log(message, '\n');
+        console.log(message);
     }
 }
 
-completeEmails({ managersForQuery, logger }, '@live.co.uk')
+completeEmails({ managersForQuery, logger }, '.com')
     .then(response => {
         console.log(response)
     })
