@@ -1,21 +1,6 @@
 const { generateVariants, symbols } = require('./generateVariants')
 const faker = require('faker');
 
-const escapeRegex = s => s.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-
-test('generate variants tests all possible email faker symbols', () => {
-    let bigString = '';
-    for (var i = 0; i < 100; i++) {
-        bigString += faker.internet.email().toLowerCase()
-    }
-
-    symbols.forEach(s => {
-        bigString = bigString.replace(new RegExp(escapeRegex(s), 'g'), '');
-    })
-
-    expect(bigString).toBe('')
-});
-
 test('appends letters', () => {
     expect(
         generateVariants('@live.com')
@@ -49,4 +34,19 @@ test('appends numbers', () => {
         '4@', '5@', '6@',
         '7@', '8@', '9@',
     ]));
+});
+
+const escapeRegex = s => s.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+
+test('covers all possible symbols from faker', () => {
+    let emails = '';
+    for (let i = 0; i < 100; i++) {
+        emails += faker.internet.email().toLowerCase()
+    }
+
+    symbols.forEach(s => {
+        emails = emails.replace(new RegExp(escapeRegex(s), 'g'), '');
+    })
+
+    expect(emails).toBe('')
 });
