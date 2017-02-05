@@ -1,9 +1,25 @@
-const generateVariants = require('./generateVariants')
+const { generateVariants, symbols } = require('./generateVariants')
+const faker = require('faker');
 
-test('retreives empty result', () => {
+const escapeRegex = s => s.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+
+test('generate variants tests all possible email faker symbols', () => {
+    let bigString = '';
+    for (var i = 0; i < 100; i++) {
+        bigString += faker.internet.email().toLowerCase()
+    }
+
+    symbols.forEach(s => {
+        bigString = bigString.replace(new RegExp(escapeRegex(s), 'g'), '');
+    })
+
+    expect(bigString).toBe('')
+});
+
+test('appends letters', () => {
     expect(
         generateVariants('@live.com')
-    ).toEqual([
+    ).toEqual(expect.arrayContaining([
         'a@live.com', 'b@live.com', 'c@live.com',
         'd@live.com', 'e@live.com', 'f@live.com',
         'g@live.com', 'h@live.com', 'i@live.com',
@@ -14,5 +30,23 @@ test('retreives empty result', () => {
         'v@live.com', 'w@live.com', 'x@live.com',
         'y@live.com', 'z@live.com', '-@live.com',
         '_@live.com'
-    ]);
+    ]));
+});
+
+test('appends symbols', () => {
+    expect(
+        generateVariants('@')
+    ).toEqual(expect.arrayContaining([
+        '.@', '-@', '_@'
+    ]));
+});
+
+test('appends numbers', () => {
+    expect(
+        generateVariants('@')
+    ).toEqual(expect.arrayContaining([
+        '1@', '2@', '3@',
+        '4@', '5@', '6@',
+        '7@', '8@', '9@',
+    ]));
 });

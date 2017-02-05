@@ -1,8 +1,9 @@
-const generateVariants = require('./generateVariants');
+const { generateVariants } = require('./generateVariants');
 
-const filterSuccessfulQueriesUninjected = ({ managersForQuery }, variants) => new Promise((resolve, reject) => {
+const filterSuccessfulQueriesUninjected = ({ managersForQuery, logger }, variants) => new Promise((resolve, reject) => {
     Promise.all(variants.map(x => managersForQuery(x)))
         .then(result => {
+            if (logger) logger.log(result);
             const successfulQueries = result
                 .filter(x => x.managers.length > 0);
 
@@ -14,8 +15,8 @@ const prepareFinalResult = variants => {
     return [variants[variants.length - 1].query]
 }
 
-const completeEmails = ({ managersForQuery }, query) => new Promise((resolve, reject) => {
-    const filterSuccessfulQueries = filterSuccessfulQueriesUninjected.bind(null, { managersForQuery });
+const completeEmails = ({ managersForQuery, logger }, query) => new Promise((resolve, reject) => {
+    const filterSuccessfulQueries = filterSuccessfulQueriesUninjected.bind(null, { managersForQuery, logger });
     let rememberedQueries = [];
 
     const filterCallback = variants => {
@@ -34,4 +35,4 @@ const completeEmails = ({ managersForQuery }, query) => new Promise((resolve, re
         .then(filterCallback)
 })
 
-module.exports = { completeEmails };
+module.exports = completeEmails;

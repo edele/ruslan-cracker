@@ -1,4 +1,4 @@
-const { completeEmails } = require('./completeEmails');
+const completeEmails = require('./completeEmails');
 const { managersForQuery } = require('./mocks/managersForQuery');
 
 test('completes one email', done => {
