@@ -8,11 +8,34 @@ const filterSuccessfulQueriesUninjected = ({ managersForQuery, logger }, variant
                 .filter(x => x.managers.length > 0);
 
             resolve(successfulQueries);
-        });
+        })
+        .catch(reason => console.error(reason));;
 })
 
 const prepareFinalResult = variants => {
-    return [variants[variants.length - 1].query]
+    const finalMatches = variants.filter(x => x.managers.length === 1)
+        .map(x => ({ name: x.managers[0], query: x.query }));
+
+    const groupedByNames = finalMatches.reduce((groups, x) => {
+        if (groups[x.name]) {
+            groups[x.name].push(x.query);
+        } else {
+            groups[x.name] = [x.query];
+        }
+
+        return groups;
+    }, {});
+
+    const result = [];
+
+    for (let g in groupedByNames) {
+        let longest = groupedByNames[g]
+            .reduce((x, current) => x.length > current.length ? x : current, '');
+
+        result.push(longest);
+    }
+
+    return result;
 }
 
 const completeEmails = ({ managersForQuery, logger }, query) => new Promise((resolve, reject) => {
@@ -25,6 +48,7 @@ const completeEmails = ({ managersForQuery, logger }, query) => new Promise((res
             variants.forEach(x => {
                 filterSuccessfulQueries(generateVariants(x.query))
                     .then(filterCallback)
+                    .catch(reason => console.error(reason));
             })
         } else {
             resolve(prepareFinalResult(rememberedQueries));
@@ -33,6 +57,7 @@ const completeEmails = ({ managersForQuery, logger }, query) => new Promise((res
 
     filterSuccessfulQueries(generateVariants(query))
         .then(filterCallback)
+        .catch(reason => console.error(reason));
 })
 
 module.exports = { completeEmails };

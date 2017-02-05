@@ -6,10 +6,11 @@ test('completes one email', done => {
         .then(response => {
             expect(response).toEqual(['dmitriy@hotmail.com'])
             done()
-        });
+        })
+        .catch(reason => console.error(reason));
 });
 
-test.skip('completes many emails', done => {
+test('completes many emails', done => {
     completeEmails({ managersForQuery }, 'a@hotmail.com')
         .then(response => {
             expect(response).toEqual([
@@ -19,9 +20,10 @@ test.skip('completes many emails', done => {
             ]);
             done();
         })
+        .catch(reason => console.error(reason));
 });
 
-test.only('logs', done => {
+test('logs', done => {
     const logger = {
         log: jest.fn()
     };
@@ -31,4 +33,5 @@ test.only('logs', done => {
             expect(logger.log).toBeCalled();
             done();
         })
+        .catch(reason => console.error(reason));
 });
