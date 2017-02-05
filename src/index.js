@@ -1,4 +1,4 @@
-const completeEmails = require('./completeEmails');
+const { completeEmails } = require('./completeEmails');
 const managersForQueryUninjected = require('./managersForQuery');
 const getHtml = require('./getHtml');
 
@@ -6,7 +6,7 @@ const managersForQuery = managersForQueryUninjected.bind(null, { getHtml });
 
 const logger = {
     log(message) {
-        console.log(message);
+        console.log(message, '\n');
     }
 }
 

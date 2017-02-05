@@ -35,4 +35,4 @@ const completeEmails = ({ managersForQuery, logger }, query) => new Promise((res
         .then(filterCallback)
 })
 
-module.exports = completeEmails;
+module.exports = { completeEmails };
