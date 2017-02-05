@@ -1,4 +1,4 @@
-const managersForQueryWithoutDependancies = require('./managersForQuery');
+const managersForQueryUninjected = require('./managersForQuery');
 
 const getHtml = query => new Promise((resolve, reject) => {
     if (query == 'info') return resolve(require('../resources/response-5'));
@@ -8,7 +8,7 @@ const getHtml = query => new Promise((resolve, reject) => {
     reject('argument is not implemented in mock object')
 })
 
-const managersForQuery = managersForQueryWithoutDependancies.bind(null, { getHtml });
+const managersForQuery = managersForQueryUninjected.bind(null, { getHtml });
 
 test('gets no managers', done => {
     managersForQuery('asdf')
