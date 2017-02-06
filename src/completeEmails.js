@@ -78,9 +78,17 @@ const completeEmails = ({ managersForQuery, logger }, query) => new Promise((res
         }
     }
 
-    filterSuccessfulQueries(generateVariants(query))
-        .then(filterCallback)
-        .catch(reason => console.error(reason));
+    if (Array.isArray(query)) {
+        query.forEach(x => {
+            filterSuccessfulQueries(query)
+                .then(filterCallback)
+                .catch(reason => console.error(reason));
+        })
+    } else {
+        filterSuccessfulQueries(generateVariants(query))
+            .then(filterCallback)
+            .catch(reason => console.error(reason));
+    }
 })
 
 module.exports = { completeEmails };

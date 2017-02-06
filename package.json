@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "jest-cli": "^18.1.0",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "requestretry": "^1.12.0"
   }
 }

@@ -1,0 +1,3939 @@
+{ managers: 
+   [ 'Amanda Molina',
+     'Jeffrey HowLow',
+     'Brandon Botha',
+     'Cinda Martinson',
+     'Dottie Maaske',
+     'Donna Spalding',
+     'Dexter Lubezky',
+     'Eddie Eggert',
+     'Fay Rae',
+     'Guy Cook',
+     'Gene Rocha',
+     'Ileana Hartje',
+     'Josh Wojtczak',
+     'Julia Medina',
+     'Kevin LaCrosse',
+     'Latoya Lerer',
+     'Lidia Conde',
+     'Lissette Stovall',
+     'Angie Carr',
+     'Markiya K.',
+     'Amy Bawcom',
+     'Pat Powell',
+     'LaJuanda Tacznosky',
+     'Michael Lebovich',
+     'Kyra Comer',
+     'Sarah Sancomb',
+     'Shellie Mulry',
+     'Zina Commings',
+     'Taneshia Derringer',
+     'Tara Sprinkle',
+     'Stanley Gray',
+     'Aaron Erna',
+     'Tonya Tepper',
+     'Virgilio Teele' ],
+  query: 'a.com' }
+{ managers: 
+   [ 'Casey Smith',
+     'Dominic Booth',
+     'Eddie Braun',
+     'Floyd Duff',
+     'Susan Baker' ],
+  query: 'b.com' }
+{ managers: 
+   [ 'Abdul Felick',
+     'Audrey Martin',
+     'Nancy Johnson',
+     'David B.',
+     'Dexter Waddick',
+     'Duane Bayford',
+     'Metina Tilghman',
+     'Fritz Dwiggins',
+     'James Dipofi',
+     'Jean Dahlberg',
+     'John Kearney',
+     'Kathy Cecchetti',
+     'Mary Winslow',
+     'Mary Santivanez',
+     'Jerrod Goins',
+     'Christina H',
+     'Melissa Paulette',
+     'Damian Canter',
+     'Ron Klein',
+     'Scott Ceballos',
+     'Jay Middleton',
+     'Tiffany O&#39;Connors',
+     'Foxie Chambers',
+     'Tamaya Sykora',
+     'Antowne Perez',
+     'Bill Brunson',
+     'Yolanda Israel' ],
+  query: 'c.com' }
+{ managers: 
+   [ 'Andrew Bannerman',
+     'Anthony Greenwood',
+     'Brian Milne',
+     'Dan Lloyd',
+     'David Hauge',
+     'Don Phaneuf',
+     'Elizabeth Tinker',
+     'Elaine R',
+     'Jocelyn Heywood',
+     'Brenda Brown',
+     'Jamie Kay',
+     'John Mcpherson',
+     'Janelle Pouliot',
+     'Karen Davis',
+     'Kathy Frazer',
+     'Kia Hand',
+     'Matt Thaler',
+     'Patricia Block' ],
+  query: 'd.com' }
+{ managers: 
+   [ 'Alain Corcoran',
+     'Allan Wilson',
+     'Alvis Geisler',
+     'Amanda Elizabeth',
+     'Ana Gallagher',
+     'Antoinette True',
+     'Keith Charlies',
+     'Billie Adams',
+     'Billy Birch',
+     'Robert Cochran',
+     'Robert George',
+     'Henry Bond',
+     'Brandie Kohr',
+     'Brian Torres',
+     'Bill Williams',
+     'Carolyn Engle',
+     'Joanne Vincent',
+     'Christina Weaver-Purtill',
+     'Chelsey Schunek',
+     'Cheria Grimes',
+     'Jerri Dixon',
+     'Eliza Reese',
+     'Mickey Wheeler',
+     'Connie Carpenter',
+     'Debbie Gatchel',
+     'Cass Perkins',
+     'Crawford L.',
+     'Curtis Tony',
+     'Cynthia Boganwright',
+     'Cici Saenz',
+     'Dee Busey',
+     'Danny Hale',
+     'Debbie Jasko',
+     'Chris Fehlhaber',
+     'Deborah Nicole',
+     'Dani Pick',
+     'Diane Rogers',
+     'Dave Strieder',
+     'Dustin Kamp',
+     'Tj Walchak',
+     'Eugenia Taylor',
+     'Ryan Vliet',
+     'Teniesha Passio',
+     'Gary O&#39;Connell',
+     'Gail Cutchall',
+     'George East',
+     'Georgianna D&#39;Eau',
+     'Garry Oxner',
+     'Bert Newcomb',
+     'Heather WInter',
+     'Nolan Kingg',
+     'Carissa Bee',
+     'Inez Jacobazzi',
+     'Jacob Crespo',
+     'John Barcenas',
+     'John Dorman',
+     'Jennifer Blair',
+     'Jesse Ruiz',
+     'Jeff Watson',
+     'June Hyland',
+     'John Lavon',
+     'Joannie Lynn',
+     'Joyce Elliott',
+     'Karen C.',
+     'Kathy Hanslik',
+     'Kristine Franklin-Patterson',
+     'Kerry Todd',
+     'Kevin Newcomer',
+     'Kim Moody',
+     'Kristin Nicholls',
+     'Laura Crownover',
+     'Daniel Larson',
+     'Sergio Lesco',
+     'Lida Fox',
+     'Lindsey Taylor',
+     'Lindsie Shobe',
+     'Greg Levias-Edmondson',
+     'Mark Jones',
+     'Missy Schmitt',
+     'Mobb Mcfadden',
+     'Monica Durante',
+     'Melissa Sah',
+     'Murray Thomas',
+     'Nikki Bryant',
+     'Robyn Leehy',
+     'Robert Citron',
+     'Rosanne Garris',
+     'Sanjay Key',
+     'Seth Unruh',
+     'Shay Martinez',
+     'Michael Smith',
+     'Antoine Anderson',
+     'Susan Dye',
+     'SweetDreamz Callahan',
+     'Steve White',
+     'Jo Martin',
+     'Tommi Guglielmo',
+     'Tammy Jacobs',
+     'Vincenzo Menefee',
+     'Whitney Peterson',
+     ... 5 more items ],
+  query: 'e.com' }
+{ managers: [ 'Barbara Lee', 'David Kane', 'Inga Cahn', 'Ron Painter' ],
+  query: 'f.com' }
+{ managers: 
+   [ 'Bernice Don',
+     'Briana Lapciuc',
+     'Christina Jones',
+     'Patrick Crawford',
+     'Howard Mack',
+     'Jo-Anne Austin',
+     'Joe Beth',
+     'Mark Davidson',
+     'Nicole Miller',
+     'Bob Febres',
+     'Sherika Smith',
+     'Kathy Beard',
+     'Yaquelin R.' ],
+  query: 'g.com' }
+{ managers: 
+   [ 'Adam Hodge',
+     'Angelo Delgleize',
+     'Bob A.',
+     'Brett Horwich',
+     'Doug Smith',
+     'Frank Maluki',
+     'Chad Schwendener',
+     'Jimmie Schoenberger',
+     'Jack Spradley',
+     'James Hutchison',
+     'Marji Smith',
+     'Tina Nemeth' ],
+  query: 'h.com' }
+{ managers: 
+   [ 'Ale Palaggi',
+     'Azrag Borghetti',
+     'Dani Howard',
+     'Deb Davis',
+     'Dhansukhlal Whitcomb',
+     'Doris N',
+     'Jesse Giorgianni',
+     'Matt Schwartz',
+     'Nadine Bryson',
+     'Nerissa Giacomucci',
+     'Zina Commings' ],
+  query: 'i.com' }
+{ managers: 
+   [ 'Betty Creamer',
+     'Catey Patrick',
+     'Shanta Zurick',
+     'Frank Noble',
+     'Nathan Berkowitz',
+     'Vera Taylor' ],
+  query: 'k.com' }
+{ managers: 
+   [ 'Alma R',
+     'A.w. Kim',
+     'Jalah Rincon',
+     'LeighAnn Vialpando',
+     'Andrew Austin',
+     'Anthony Garbo',
+     'Frank Malfa',
+     'Amy E.',
+     'Pam Lucas',
+     'Alan Aguilera',
+     'Lauren Kier',
+     'Anna Higgins',
+     'Sonia Bossone',
+     'Mahmoud Sathe',
+     'Alice Hinkelmann',
+     'Amanda Lee',
+     'Adam A.',
+     'Adam Whitmus',
+     'Adam Merrill',
+     'Addie Purcell',
+     'Sherri Heyliger',
+     'Ahmad Donnelly',
+     'Adrian Smith',
+     'Ady Watts',
+     'Patricia Ealy-Manson',
+     'Tim Thomas',
+     'Brandy Abdullah',
+     'Arturo Green',
+     'Angela Seale',
+     'Andreas Kay',
+     'Alice Brewer',
+     'Alaine Nastari',
+     'Tiffiny Levi',
+     'Alanlade Wayman',
+     'Albert Abedi',
+     'Judy Albert',
+     'Alex Smith',
+     'Alex Walker',
+     'Jack Sarigianidis-Wright',
+     'LeXii Boone',
+     'Georgia Woods',
+     'Elva Ghanavati',
+     'Alicia Clark',
+     'Alison Shewell',
+     'Alicia Stilger',
+     'Alicia Zajac',
+     'Lisa Asaad',
+     'Alisha Bartell',
+     'Alishia Johnson',
+     'Vickie Huxman',
+     'Jackie Galesky',
+     'Annette He',
+     'Mary Lowe',
+     'Philip Allen',
+     'Stephanie Huckins',
+     'Allen McFarlin',
+     'Sherry Allen',
+     'Michele Johnson',
+     'Nicole Sizemore',
+     'Rosaisela Betts',
+     'Deborah Laney',
+     'Alison Hazelett',
+     'Allyson Khalid',
+     'Spencer Walters',
+     'Rosa Almarez',
+     'Allen Milner',
+     'Stuart Sindelman',
+     'Angela Montgomery',
+     'Doris Rethard',
+     'Jess Loving',
+     'Helen Yee',
+     'Jerry Boska',
+     'Jordan Bean',
+     'Allison Marte',
+     'Rebajean Emmons',
+     'Alverine Frazier',
+     'Alvina Carrasco',
+     'Cindy Mills-marshall',
+     'Myra Murphy',
+     'Anna Jones',
+     'Judy Albright',
+     'Angela Isaac',
+     'Abubaker Thompson',
+     'Karen Shaw',
+     'Amanda Buchholz',
+     'Amanda Lynn',
+     'Susan Alexander',
+     'Wendy Yeisley',
+     'Andrew Baeza',
+     'Johnny Carman',
+     'April Gorski',
+     'Tamela Gatlin',
+     'Amber Lautenschlager',
+     'Amber Gray',
+     'Ambra Baker',
+     'Anne Baron',
+     'Ruth Fleming',
+     'Rashell Singha',
+     'James Dorsey',
+     'Jeffrey LaPorte',
+     ... 5277 more items ],
+  query: 'l.com' }
+{ managers: 
+   [ 'Asylum Anderson',
+     'Brandon Breese',
+     'Beth Carlson',
+     'Cheryl Karasik',
+     'Colin Weaver',
+     'Ed Dayrit',
+     'Diane Lmecom',
+     'Edward Lynne',
+     'Amanda McKinney',
+     'Ileana Hartje',
+     'John Jackson',
+     'Kelvin Meza',
+     'Kera Wright',
+     'Michael Everett-Osiadacz',
+     'Pity Montanez',
+     'Nancy Chan',
+     'Anita Kwak',
+     'Rayvon McCombs',
+     'Rodolfo Myers',
+     'Shanna Jodi',
+     'Tree Lewin' ],
+  query: 'm.com' }
+{ managers: 
+   [ 'Angela Osburn-Nixon',
+     'Amber Muro',
+     'Adejimi Kelley',
+     'Alexander Wilson',
+     'Bruce Mason',
+     'Ana Bogojevich',
+     'Angie Leo',
+     'Ann Hartel',
+     'Ann Marie',
+     'Mae Mathis',
+     'Sherry Hager',
+     'Jamey Platt',
+     'Ben Grieco',
+     'Bernie Allen',
+     'Boukou Arvizu',
+     'Brad Robison',
+     'Brian Huson',
+     'Brittney Phelan',
+     'Bilal Santacapita',
+     'Alice Vanderveer',
+     'Carlos Inman',
+     'Christine Assante',
+     'Cheryl Kelly',
+     'Chris Alan',
+     'Don Collier',
+     'Danielle Larsen',
+     'Kit Brown',
+     'Diane Johnson',
+     'Deborah Gomez',
+     'Bruce Moore',
+     'Donna King',
+     'Jeffrey D',
+     'E.P. E',
+     'Kimberly A.',
+     'Enrique Skelton',
+     'Sue Farmer',
+     'Folusho Berezin',
+     'Fran James',
+     'Amanda Seeram',
+     'Jessica Krause',
+     'Gil Kate',
+     'Gordon Betker',
+     'Grisel Jean',
+     'Heyoung Bair',
+     'Stacey Willson',
+     'Jeff Winburne',
+     'Jim Lopez',
+     'Jody Gonzales',
+     'Julie La',
+     'John Oakes',
+     'John Beatty',
+     'Jonathan Davidson',
+     'Jackie Carter',
+     'June Gaspar',
+     'Justin Sainz',
+     'Karen A',
+     'Ken Addison',
+     'Karen Streeter',
+     'Karl L.',
+     'Angel Jackman',
+     'Keionie Barnes',
+     'Kimesha McWilliams',
+     'Kim C.',
+     'Kimmie Sivek',
+     'Kristina Camodeca',
+     'Kathleen Dameworth',
+     'Corey Leader',
+     'Leonard Barron',
+     'Marquitta Galvin',
+     'Marie Hsieh',
+     'Marsha Guiracocha',
+     'Maxim Tyson',
+     'Mike Hausker',
+     'Joy Wright',
+     'Missy Gumbert',
+     'Missy Owen',
+     'Mitchell Mullin',
+     'Michael Maybee',
+     'Douglas Morris',
+     'Nick Carson',
+     'Nikiya Colett-Sanders',
+     'Pris Vytlacil',
+     'Patty Miller',
+     'Ray Scott',
+     'Reginald Ann',
+     'Ricky Pinsonnault',
+     'Keith Romrell',
+     'Ronda Nelson',
+     'Sabrina McLean',
+     'Sandy Gaspar',
+     'Shayli Roffo',
+     'Latosha Lee',
+     'Sherry Worster',
+     'Don Lisak',
+     'Denie Neese',
+     'Lars Frederick',
+     'Stuart Gelbman',
+     'James Cormie',
+     'Sukhvir McLean',
+     'Sonya White',
+     ... 14 more items ],
+  query: 'n.com' }
+{ managers: 
+   [ 'Natalya Luvinmesumtra',
+     'Linda Larabee',
+     'Deanna Whitfield',
+     'Keisha A',
+     'John Fuentes',
+     'Misha Harris',
+     'David Brightman',
+     'Jimmy A.',
+     'MzCheeks Sigwald',
+     'A.r. DeFalco',
+     'Ayron Cooke',
+     'Joseph Maietta',
+     'Chris Parmely',
+     'Diane Richardson',
+     'Aaliyah Monique',
+     'Aaron Lyons',
+     'Aaron HAgos',
+     'Aaron Noori',
+     'Maura White',
+     'Amber Banack',
+     'Kainan Original',
+     'Abby Medina',
+     'Robin Abdullah',
+     'Perumunda Bell',
+     'Albert Barclay',
+     'Alto Long',
+     'Abran Mansilla',
+     'Nancy Bruce',
+     'Justin Rodriguez',
+     'Sharde Albert',
+     'Joseph Carroll',
+     'Alicia Nicole',
+     'Elaine Marie',
+     'Aj Conklin',
+     'Alicia Cowdin',
+     'Gene Boutwell',
+     'Allen Criswell',
+     'Tasha ToupsJr',
+     'Adalberto Kuruvilla',
+     'Adam Sampley',
+     'Tina Adams',
+     'Angel Canty',
+     'Adele Johnson',
+     'Harold Doher',
+     'Adrian Laititi',
+     'Adriana Webster',
+     'Adrian Jacobs',
+     'Adrianne Posada',
+     'Drew Genoveve',
+     'Malibu Bolin',
+     'Stan Nicole',
+     'Robert Monti',
+     'Pat Tfc',
+     'Gus Vanisi',
+     'Adam Patin',
+     'Kurt Cox-sanchez',
+     'Nora Blackwell',
+     'Andrew Parker',
+     'Ava Gulmesoff',
+     'Heather Hawley',
+     'Andy Heywood',
+     'Ahmed Lisi',
+     'Pastor Ama',
+     'Iraj Craig',
+     'Aigner M',
+     'Ricky Bowlin',
+     'Ailyn Allen',
+     'Dalena Iokheles',
+     'Inez Irwin',
+     'Aj Howard',
+     'Aj Kelly',
+     'Aja Faye',
+     'Alex Diaz',
+     'Ajay Singleton',
+     'Amber Jones',
+     'Anthony Powers',
+     'Anjanette Vidal',
+     'Jan L.',
+     'Kefflyn Collins',
+     'Alan Primeaux',
+     'Alan Shelley',
+     'Al Garcia',
+     'Irene Ahlgrim',
+     'Floyd Soderstrom',
+     'Albert Nicole&#39;',
+     'Debbie J.',
+     'Alecia Frazie',
+     'Aleida L',
+     'Aleksandar Copeland',
+     'Alan Erin',
+     'Tracy Ksas',
+     'Alexander Isfahani',
+     'Alexandra Overby',
+     'Alexandra Kassa',
+     'Alexander Dalton',
+     'Alexis Shields',
+     'Alex Otun',
+     'Al Festus',
+     'Alfred Sanchez',
+     'Alfredo Lee',
+     ... 4825 more items ],
+  query: 'o.com' }
+{ managers: 
+   [ 'Al Guzman',
+     'Beth Chiappetta',
+     'Bernell Pierce',
+     'Gina Black',
+     'Gary Olsen',
+     'Janet McLemore',
+     'Janet Tharp',
+     'Jeannine Sturm',
+     'Jane Jordan',
+     'Jean Mercedes',
+     'Lisa Johnson',
+     'Joseph DeLoach',
+     'Joshua Mattox',
+     'Keconha Carlson',
+     'Kirsten Nwaogu' ],
+  query: 'p.com' }
+{ managers: [ 'DeAndre Bristow', 'Melinda Diaz' ],
+  query: 'q.com' }
+{ managers: 
+   [ 'Shawnie Smith',
+     'Antoinette Dolores',
+     'Shalimar Cooperberg',
+     'Angela Gelwicks',
+     'Arnold Carwile',
+     'Benjamin Gutierrez',
+     'Brian Henderson',
+     'Willard Taylor',
+     'Jeff Bowders-Neese',
+     'Rachel J.',
+     'Brian Hepp-Struck',
+     'Brittney Guadagnoli',
+     'Bull Cooke',
+     'Cari Talbot',
+     'Cassandra Panch',
+     'La&#39;shay Prelle',
+     'Christopher Kalbrener',
+     'Chuck Cross',
+     'Christopher Wolfrum',
+     'Danielle Kirby',
+     'David Hawkins',
+     'David Robertson',
+     'Dawn Kelley',
+     'Dhaima Cobble',
+     'Dhansukhlal Whitcomb',
+     'Sundy Howard',
+     'Daniel Becerra',
+     'Donna Staten',
+     'Dallas Touchet',
+     'Denise Yates',
+     'Eddie J.G.',
+     'Eileen Ross',
+     'Dan Leandry',
+     'Christy Cate',
+     'George Smith',
+     'Tammy G.',
+     'Greg Graham',
+     'Eric At',
+     'Harvey Koker',
+     'Ascinda Lauer',
+     'Heidi Ransdell',
+     'Joseph Senn',
+     'Jamie Neugebauer',
+     'Jamie Smith',
+     'Julie Chambers',
+     'Jerry W.',
+     'Joe Fraticelli',
+     'Amanda Ann',
+     'James Penton',
+     'Kristine Pugh',
+     'John Richards',
+     'Jon Yves',
+     'Jordan Rusnak',
+     'Joshua Shafer',
+     'Jim Colpitts',
+     'Karl Smith',
+     'Keith Satterfield',
+     'Ken Burnett',
+     'Kerri Gonzalez',
+     'Kevin C',
+     'Kristofer Harris-Dixon',
+     'Laura Lee',
+     'Martha Jones',
+     'Michael Holder',
+     'Michael Poole',
+     'Michele Beck',
+     'Marge Neita',
+     'Mustapha Phelps',
+     'Norma Cameron',
+     'Pamela Skinner',
+     'Paul Lyon',
+     'Rahtaneik Schleppenbach',
+     'Randy Fournier',
+     'Rebecca Power',
+     'Rebecca Jimenez',
+     'Robyne Franklin',
+     'Robert Cogswell',
+     'Ronnie Ransom',
+     'Ruth Leeders',
+     'Ashley Fogelgren',
+     'Stephanie Larkin',
+     'Teddy Hounchell',
+     'Terry Cortez',
+     'Thomas Gran',
+     'Carlos Poe-Heasley',
+     'Tina Anne',
+     'Tina Spencer',
+     'Teddy Keiler-Docktor',
+     'Tommy McCool',
+     'Victoria Plott',
+     'David Williams',
+     'Wylie Mack' ],
+  query: 'r.com' }
+{ managers: 
+   [ 'Aimee Pelayo',
+     'Alisa Barber',
+     'Amanda Rahm',
+     'Patricia Emerling',
+     'Annie Ulibarri',
+     'Anthony Manelas',
+     'Anthony Sellers',
+     'Arn O&#39;Neal',
+     'Ashley Pease',
+     'Aubrey Murphy',
+     'Bonnie A',
+     'Jonathan Johnson',
+     'Belinda Phillips',
+     'Shana Johnson',
+     'Anand Bowman',
+     'Brad DiSano',
+     'Brandi A.',
+     'Brent Coulon',
+     'Billi Taylor',
+     'Cynthia Ochoa',
+     'Devon Wheeler',
+     'Claudie Pittman',
+     'Cora Hargrove',
+     'Corina Simonds',
+     'Crystal Andrews',
+     'Cynthia Rivera',
+     'Cynthia Descant',
+     'Daniel Cardona',
+     'David Fisher',
+     'David Phang-Mager',
+     'Danny Johnson',
+     'Deborah Jensen',
+     'Denise Mercado',
+     'Dennis Houck',
+     'Dennis Wujek',
+     'Dianna Maxwell',
+     'Dylan Buchta',
+     'Einar Holman',
+     'Emily Sigmon',
+     'Erik Casillas',
+     'Erin Stone',
+     'Patti French-Tickler',
+     'Chad Schwendener',
+     'Georgia Nickerson',
+     'Greg Shyshko',
+     'Harsha Noring',
+     'Helen Menephee',
+     'Ing-Ing Parrish',
+     'Irving Mascarenas',
+     'Jalika Sullivan',
+     'Janice Walker',
+     'Jarret Davis',
+     'Jason Helms',
+     'Jason Smith',
+     'Jodi Baldwin',
+     'Jerry Corson',
+     'Jody Dukes',
+     'Jen Johnson',
+     'Jenna Christopher',
+     'Ryan Overby',
+     'Jenny Billings',
+     'Jenny Park',
+     'Jerry Sepulvado',
+     'Jerry Baker',
+     'Jessum Shelton',
+     'Jerome Flowers',
+     'Joe Saunders',
+     'Joey Holt',
+     'John Fox',
+     'Jonathan Rose',
+     'Jorge Young',
+     'Joyce Ashmore',
+     'Juanita C',
+     'Judi Taylor',
+     'Justin Pecunes',
+     'Janie Wilson',
+     'Kathy Baumgartner',
+     'Rick Davis',
+     'Kelly Williams',
+     'Loretta Homes',
+     'Karen Robert',
+     'Kathy Weaver',
+     'Karen Weller',
+     'Lynn Degrandis',
+     'Linda Schuman',
+     'Lisa Pualani',
+     'Lola Dixon',
+     'Lyza Jackson',
+     'Tameika Alvarez-Cardenas',
+     'Howard Jaggers',
+     'Mary Phillips',
+     'Mary Baillie',
+     'Mitchell LaValla',
+     'Mike Cook',
+     'Nadine Miles',
+     'NaTisha D.',
+     'Neal Goetsch',
+     'Neble Martin',
+     'Nicole Klein',
+     'Nora Viviano',
+     ... 24 more items ],
+  query: 's.com' }
+{ managers: 
+   [ 'Jessabella West',
+     'Brenna Bauer',
+     'Barbara Falavigna',
+     'Rebecca Mebane',
+     'Beth Betts',
+     'Bobbie Cross',
+     'Catherine Griggs',
+     'Charlene Rollinson',
+     'Curt Al',
+     'Claudia Frederiksen',
+     'Colleen Mittelstadt',
+     'Darla Hayden',
+     'Drew Willis',
+     'Reed Ruggiero',
+     'Leon Weichert',
+     'Tim Youngblood-Shaw',
+     'Howard Pulce',
+     'Ivonne Daza',
+     'Ife Morales',
+     'Jay Connor',
+     'Jessica Ehrhart',
+     'Joe Bishop',
+     'Joseph Lane',
+     'Kathleen Nolan',
+     'Leah Hart',
+     'Lexa Froland',
+     'Marie Alavekios',
+     'Michael Jones',
+     'Tina Gamble',
+     'Misty Edward',
+     'Pamalla R.',
+     'Samantha Andersson-Ahmed',
+     'Sarah Martin',
+     'Sarah Noma',
+     'Teresa Pitt',
+     'Than Manny',
+     'Wes Knight',
+     'Patty Williams',
+     'Linda Lesher',
+     'Yvonne Virnig' ],
+  query: 't.com' }
+{ managers: [ 'Nicole Luscombe' ], query: 'u.com' }
+{ managers: [ 'Ann Harrison', 'Donald Coleman', 'Kevin F.' ],
+  query: 'v.com' }
+{ managers: 
+   [ 'Astria Allen',
+     'Brett Wade',
+     'Brian Yerdon',
+     'Chaunya Debaere',
+     'Donn Colwick',
+     'Dania Gruman',
+     'Dave Forsyth',
+     'David Boyer',
+     'Debby Jarvis',
+     'David Moore',
+     'Erik Jordan',
+     'David Fickett',
+     'Gabriel L.',
+     'Ghamar Griffith',
+     'Gabriella Taylor',
+     'Harold Hollifield',
+     'Jeff Richardson',
+     'Jube Woodward',
+     'Vincent Johnson',
+     'Joyce Holley',
+     'Julia Terrell',
+     'Katie Skinner',
+     'Kitty Kraft',
+     'Kevin MacDonald',
+     'Kristy Hawkins',
+     'Linda Brown',
+     'G Wise-Jennings',
+     'Patrick Disrud',
+     'Randy Farzanhe',
+     'Ratnajyothi Caskey',
+     'Bob Barnes',
+     'Ray Pizarro',
+     'Audrianna Massey',
+     'Dwight Switow',
+     'Susie R.',
+     'Tracy New' ],
+  query: 'w.com' }
+{ managers: 
+   [ 'Cheryl Lantz',
+     'Jon Morales',
+     'Michael Roberts',
+     'Rose Norcross' ],
+  query: 'x.com' }
+{ managers: 
+   [ 'Eric Fair',
+     'Aleks Hansen',
+     'Tony Huynh',
+     'Bill Shipley',
+     'Brenda Wright',
+     'Bronson McCauley',
+     'Carol Qualley',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'Dara Snyder',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Yenny Merritt',
+     'Dung Decker',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Holly Shook',
+     'Hunter Swanson',
+     'Igor Gesky',
+     'Amy Ramey',
+     'Jada Noble',
+     'Jaime Timms',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Justin Lee',
+     'Melissa Da',
+     'Katrina Brown',
+     'Kayla Harvey',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Linda Yocom',
+     'Matt Riach',
+     'Maureen Waters',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paige Lakey',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Ruth Ray',
+     'Sue Perry',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Mike Blanchard',
+     'Tina OBerry',
+     'Gindira Vetovick' ],
+  query: 'y.com' }
+{ managers: 
+   [ 'Crawford L.',
+     'Chris Tamez',
+     'Hugo Rodriguez',
+     'Kaitlyn Johnson',
+     'Massaad South' ],
+  query: 'z.com' }
+{ managers: 
+   [ 'Dionna Stoklosa',
+     'Bernice Demith',
+     'Gary Fogel',
+     'Fareeda Little',
+     'MarKeisha Hasenauer',
+     'Roderick Ellmyer-Matulewicz' ],
+  query: '0.com' }
+{ managers: 
+   [ 'FranMayca Chen',
+     'Tnai Solorzano',
+     'Jeannette Moore',
+     'Jacqueline White',
+     'Jenifer M.',
+     'Lacey Jones',
+     'Sandie Wood',
+     'Sonny Kubic',
+     'Stan Madia' ],
+  query: '1.com' }
+{ managers: [ 'Dinah Mount', 'Samantha Goldfarb' ],
+  query: '2.com' }
+{ managers: [ 'Dora Wesalowski', 'Taylor Coleman' ],
+  query: '3.com' }
+{ managers: [ 'Tip Rivera' ], query: '5.com' }
+{ managers: 
+   [ 'Helen Adams',
+     'Austin Huff',
+     'Teresa Thomas',
+     'Kurt Rodweller',
+     'Priscilla Ray' ],
+  query: '6.com' }
+{ managers: [ 'Barry Gant', 'Donna Corey', 'Valeria Keogh' ],
+  query: '7.com' }
+{ managers: [ 'Carol Williams' ], query: '8.com' }
+{ managers: [ 'Delberta Cardinal', 'Billy Shields' ],
+  query: '9.com' }
+{ managers: [ 'Jeffrey HowLow', 'Josh Wojtczak', 'Amy Bawcom' ],
+  query: 'ba.com' }
+{ managers: [ 'Cinda Martinson' ], query: 'ca.com' }
+{ managers: [ 'Fay Rae', 'LaJuanda Tacznosky' ],
+  query: 'da.com' }
+{ managers: [ 'Brandon Botha', 'Gene Rocha' ], query: 'ha.com' }
+{ managers: [ 'Dottie Maaske', 'Taneshia Derringer' ],
+  query: 'ia.com' }
+{ managers: [ 'Tara Sprinkle', 'Aaron Erna' ], query: 'ka.com' }
+{ managers: [ 'Ileana Hartje', 'Michael Lebovich' ],
+  query: 'la.com' }
+{ managers: [ 'Lissette Stovall', 'Pat Powell' ],
+  query: 'ma.com' }
+{ managers: 
+   [ 'Amanda Molina',
+     'Donna Spalding',
+     'Eddie Eggert',
+     'Julia Medina',
+     'Markiya K.',
+     'Zina Commings',
+     'Virgilio Teele' ],
+  query: 'na.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'pa.com' }
+{ managers: [ 'Dexter Lubezky', 'Kyra Comer', 'Stanley Gray' ],
+  query: 'ra.com' }
+{ managers: [ 'Lidia Conde', 'Angie Carr', 'Sarah Sancomb' ],
+  query: 'sa.com' }
+{ managers: [ 'Shellie Mulry', 'Tonya Tepper' ],
+  query: 'ta.com' }
+{ managers: [ 'Guy Cook' ], query: 'va.com' }
+{ managers: [ 'Latoya Lerer' ], query: 'ya.com' }
+{ managers: [ 'Casey Smith', 'Dominic Booth', 'Floyd Duff', 'Susan Baker' ],
+  query: 'bb.com' }
+{ managers: [ 'Eddie Braun' ], query: 'eb.com' }
+{ managers: 
+   [ 'David B.',
+     'Dexter Waddick',
+     'Kathy Cecchetti',
+     'Antowne Perez',
+     'Bill Brunson',
+     'Yolanda Israel' ],
+  query: 'ac.com' }
+{ managers: [ 'Scott Ceballos' ], query: 'ec.com' }
+{ managers: [ 'Mary Winslow' ], query: 'hc.com' }
+{ managers: [ 'James Dipofi' ], query: 'ic.com' }
+{ managers: [ 'Tamaya Sykora' ], query: 'kc.com' }
+{ managers: [ 'Damian Canter' ], query: 'lc.com' }
+{ managers: [ 'Metina Tilghman' ], query: 'mc.com' }
+{ managers: [ 'Abdul Felick', 'Duane Bayford', 'Fritz Dwiggins' ],
+  query: 'nc.com' }
+{ managers: [ 'Audrey Martin', 'Tiffany O&#39;Connors' ],
+  query: 'oc.com' }
+{ managers: 
+   [ 'Mary Santivanez',
+     'Jerrod Goins',
+     'Christina H',
+     'Ron Klein',
+     'Jay Middleton' ],
+  query: 'pc.com' }
+{ managers: 
+   [ 'Jean Dahlberg',
+     'John Kearney',
+     'Melissa Paulette',
+     'Foxie Chambers' ],
+  query: 'tc.com' }
+{ managers: [ 'Brenda Brown', 'Matt Thaler' ], query: 'ed.com' }
+{ managers: [ 'David Hauge' ], query: 'id.com' }
+{ managers: [ 'Elaine R', 'Jamie Kay', 'Janelle Pouliot', 'Kathy Frazer' ],
+  query: 'ld.com' }
+{ managers: [ 'Kia Hand' ], query: 'nd.com' }
+{ managers: 
+   [ 'Andrew Bannerman',
+     'Anthony Greenwood',
+     'Jocelyn Heywood',
+     'John Mcpherson',
+     'Karen Davis',
+     'Patricia Block' ],
+  query: 'od.com' }
+{ managers: [ 'Brian Milne' ], query: 'rd.com' }
+{ managers: [ 'Elizabeth Tinker' ], query: 'sd.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'td.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'yd.com' }
+{ managers: [ 'David Kane' ], query: 'ef.com' }
+{ managers: [ 'Barbara Lee', 'Inga Cahn', 'Ron Painter' ],
+  query: 'ff.com' }
+{ managers: [ 'Lindsie Shobe' ], query: 'be.com' }
+{ managers: [ 'Antoinette True', 'Daniel Larson' ],
+  query: 'ce.com' }
+{ managers: [ 'Cynthia Boganwright' ], query: 'ee.com' }
+{ managers: 
+   [ 'Ana Gallagher',
+     'Robert George',
+     'Brandie Kohr',
+     'Brian Torres',
+     'Inez Jacobazzi',
+     'Jesse Ruiz',
+     'Wayne Meyer' ],
+  query: 'ge.com' }
+{ managers: [ 'Debbie Gatchel' ], query: 'ie.com' }
+{ managers: 
+   [ 'Allan Wilson',
+     'Danny Hale',
+     'John Dorman',
+     'Laura Crownover',
+     'Michael Smith',
+     'Mike White',
+     'William Harkleraod' ],
+  query: 'ke.com' }
+{ managers: 
+   [ 'Bill Williams',
+     'Carolyn Engle',
+     'Deborah Nicole',
+     'Sergio Lesco' ],
+  query: 'le.com' }
+{ managers: [ 'Henry Bond', 'Kathy Hanslik', 'Kim Moody' ],
+  query: 'me.com' }
+{ managers: 
+   [ 'Alain Corcoran',
+     'Robert Cochran',
+     'Cheria Grimes',
+     'Dani Pick',
+     'Dave Strieder',
+     'Gail Cutchall',
+     'Bert Newcomb',
+     'John Lavon',
+     'Joyce Elliott',
+     'Kevin Newcomer',
+     'Melissa Sah' ],
+  query: 'ne.com' }
+{ managers: 
+   [ 'Billie Adams',
+     'Christina Weaver-Purtill',
+     'Connie Carpenter',
+     'Cass Perkins',
+     'Cici Saenz',
+     'Dee Busey',
+     'Diane Rogers',
+     'Tj Walchak',
+     'Georgianna D&#39;Eau',
+     'Heather WInter',
+     'Jeff Watson',
+     'Karen C.',
+     'Kristine Franklin-Patterson',
+     'Lindsey Taylor',
+     'Greg Levias-Edmondson',
+     'Missy Schmitt',
+     'Mobb Mcfadden',
+     'Nikki Bryant',
+     'Robert Citron',
+     'Seth Unruh',
+     'Shay Martinez',
+     'SweetDreamz Callahan',
+     'Vincenzo Menefee',
+     'Wilna Bassler',
+     'Yvette Clifford' ],
+  query: 're.com' }
+{ managers: 
+   [ 'Eliza Reese',
+     'Debbie Jasko',
+     'Jennifer Blair',
+     'Kristin Nicholls',
+     'Lida Fox' ],
+  query: 'se.com' }
+{ managers: 
+   [ 'Alvis Geisler',
+     'Amanda Elizabeth',
+     'Joanne Vincent',
+     'Chelsey Schunek',
+     'Mickey Wheeler',
+     'Curtis Tony',
+     'Dustin Kamp',
+     'Eugenia Taylor',
+     'Teniesha Passio',
+     'George East',
+     'Garry Oxner',
+     'Jacob Crespo',
+     'John Barcenas',
+     'Monica Durante',
+     'Murray Thomas',
+     'Sanjay Key',
+     'Antoine Anderson',
+     'Steve White',
+     'Tommi Guglielmo' ],
+  query: 'te.com' }
+{ managers: 
+   [ 'Keith Charlies',
+     'Billy Birch',
+     'Jerri Dixon',
+     'Crawford L.',
+     'Chris Fehlhaber',
+     'Ryan Vliet',
+     'Gary O&#39;Connell',
+     'Nolan Kingg',
+     'Carissa Bee',
+     'June Hyland',
+     'Joannie Lynn',
+     'Kerry Todd',
+     'Mark Jones',
+     'Robyn Leehy',
+     'Rosanne Garris',
+     'Jo Martin',
+     'Tammy Jacobs',
+     'Whitney Peterson' ],
+  query: 've.com' }
+{ managers: [ 'Susan Dye' ], query: 'ye.com' }
+{ managers: [ 'Joe Beth' ], query: 'eg.com' }
+{ managers: [ 'Christina Jones' ], query: 'mg.com' }
+{ managers: 
+   [ 'Bernice Don',
+     'Briana Lapciuc',
+     'Patrick Crawford',
+     'Howard Mack',
+     'Jo-Anne Austin',
+     'Mark Davidson',
+     'Nicole Miller',
+     'Bob Febres',
+     'Sherika Smith',
+     'Kathy Beard',
+     'Yaquelin R.' ],
+  query: 'ng.com' }
+{ managers: 
+   [ 'Angelo Delgleize',
+     'Brett Horwich',
+     'Frank Maluki',
+     'Chad Schwendener',
+     'Jimmie Schoenberger',
+     'Jack Spradley' ],
+  query: 'ch.com' }
+{ managers: [ 'Adam Hodge' ], query: 'gh.com' }
+{ managers: [ 'Doug Smith', 'James Hutchison', 'Marji Smith', 'Tina Nemeth' ],
+  query: 'th.com' }
+{ managers: [ 'Bob A.' ], query: 'uh.com' }
+{ managers: [ 'Catey Patrick', 'Shanta Zurick', 'Frank Noble' ],
+  query: 'ck.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'nk.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'ok.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'fi.com' }
+{ managers: [ 'Ale Palaggi', 'Nerissa Giacomucci' ],
+  query: 'gi.com' }
+{ managers: [ 'Dhansukhlal Whitcomb' ], query: 'hi.com' }
+{ managers: [ 'Dani Howard', 'Deb Davis', 'Jesse Giorgianni' ],
+  query: 'ni.com' }
+{ managers: [ 'Matt Schwartz', 'Zina Commings' ],
+  query: 'si.com' }
+{ managers: [ 'Azrag Borghetti' ], query: 'ti.com' }
+{ managers: [ 'Doris N' ], query: 'ui.com' }
+{ managers: 
+   [ 'Adejimi Kelley',
+     'Brittney Phelan',
+     'Carlos Inman',
+     'Karl L.',
+     'Michael Maybee',
+     'Sabrina McLean',
+     'Latosha Lee' ],
+  query: 'an.com' }
+{ managers: [ 'June Gaspar' ], query: 'en.com' }
+{ managers: 
+   [ 'Alexander Wilson',
+     'Deborah Gomez',
+     'Donna King',
+     'Folusho Berezin',
+     'Mitchell Mullin' ],
+  query: 'in.com' }
+{ managers: [ 'Sukhvir McLean' ], query: 'mn.com' }
+{ managers: [ 'Reginald Ann' ], query: 'nn.com' }
+{ managers: 
+   [ 'Angela Osburn-Nixon',
+     'Brian Huson',
+     'Cheryl Kelly',
+     'Chris Alan',
+     'E.P. E',
+     'Gil Kate',
+     'Jeff Winburne',
+     'Jody Gonzales',
+     'John Beatty',
+     'Ken Addison',
+     'Kim C.',
+     'Leonard Barron',
+     'Maxim Tyson',
+     'Douglas Morris',
+     'Nick Carson',
+     'Tom Wilson',
+     'Tyrail W.' ],
+  query: 'on.com' }
+{ managers: 
+   [ 'Amber Muro',
+     'Bruce Mason',
+     'Ana Bogojevich',
+     'Angie Leo',
+     'Ann Hartel',
+     'Ann Marie',
+     'Mae Mathis',
+     'Sherry Hager',
+     'Jamey Platt',
+     'Ben Grieco',
+     'Bernie Allen',
+     'Boukou Arvizu',
+     'Brad Robison',
+     'Bilal Santacapita',
+     'Alice Vanderveer',
+     'Christine Assante',
+     'Don Collier',
+     'Danielle Larsen',
+     'Diane Johnson',
+     'Bruce Moore',
+     'Jeffrey D',
+     'Kimberly A.',
+     'Enrique Skelton',
+     'Sue Farmer',
+     'Fran James',
+     'Amanda Seeram',
+     'Jessica Krause',
+     'Gordon Betker',
+     'Grisel Jean',
+     'Heyoung Bair',
+     'Stacey Willson',
+     'Jim Lopez',
+     'Julie La',
+     'John Oakes',
+     'Jonathan Davidson',
+     'Jackie Carter',
+     'Justin Sainz',
+     'Karen A',
+     'Karen Streeter',
+     'Angel Jackman',
+     'Keionie Barnes',
+     'Kimesha McWilliams',
+     'Kimmie Sivek',
+     'Kristina Camodeca',
+     'Kathleen Dameworth',
+     'Corey Leader',
+     'Marquitta Galvin',
+     'Marie Hsieh',
+     'Marsha Guiracocha',
+     'Mike Hausker',
+     'Joy Wright',
+     'Missy Gumbert',
+     'Missy Owen',
+     'Nikiya Colett-Sanders',
+     'Pris Vytlacil',
+     'Patty Miller',
+     'Ray Scott',
+     'Ricky Pinsonnault',
+     'Keith Romrell',
+     'Ronda Nelson',
+     'Sandy Gaspar',
+     'Shayli Roffo',
+     'Sherry Worster',
+     'Don Lisak',
+     'Denie Neese',
+     'Lars Frederick',
+     'Stuart Gelbman',
+     'James Cormie',
+     'Sonya White',
+     'Tami Jarjour',
+     'Veslemoy Qiming',
+     'Teresa A.',
+     'Ethan Thao',
+     'Tina Gonzalez',
+     'Tracie Zagorski',
+     'Tracy Sexton',
+     'Vernon Basile',
+     'Terra Jordan',
+     'Zach Caprice',
+     'Ashley J' ],
+  query: 'sn.com' }
+{ managers: [ 'Kit Brown', 'Yvonne Hurst' ], query: 'wn.com' }
+{ managers: [ 'Adam Whitmus', 'Bob A.', 'Cristina Taylor', 'Denise Rahaim' ],
+  query: 'al.com' }
+{ managers: 
+   [ 'Alice Hinkelmann',
+     'Ashley Mishael',
+     'Christine Benii',
+     'Joe Meyer',
+     'Pete Hdez' ],
+  query: 'el.com' }
+{ managers: [ 'Bonnie Rosescu' ], query: 'fl.com' }
+{ managers: 
+   [ 'Alma R',
+     'A.w. Kim',
+     'Jalah Rincon',
+     'LeighAnn Vialpando',
+     'Andrew Austin',
+     'Anthony Garbo',
+     'Frank Malfa',
+     'Amy E.',
+     'Pam Lucas',
+     'Alan Aguilera',
+     'Lauren Kier',
+     'Anna Higgins',
+     'Sonia Bossone',
+     'Mahmoud Sathe',
+     'Sherri Heyliger',
+     'Ahmad Donnelly',
+     'Adrian Smith',
+     'Ady Watts',
+     'Tim Thomas',
+     'Brandy Abdullah',
+     'Andreas Kay',
+     'Alice Brewer',
+     'Alaine Nastari',
+     'Tiffiny Levi',
+     'Alanlade Wayman',
+     'Judy Albert',
+     'Alex Smith',
+     'Alex Walker',
+     'Jack Sarigianidis-Wright',
+     'LeXii Boone',
+     'Georgia Woods',
+     'Elva Ghanavati',
+     'Alicia Clark',
+     'Alison Shewell',
+     'Alicia Stilger',
+     'Lisa Asaad',
+     'Alishia Johnson',
+     'Vickie Huxman',
+     'Jackie Galesky',
+     'Annette He',
+     'Mary Lowe',
+     'Philip Allen',
+     'Stephanie Huckins',
+     'Allen McFarlin',
+     'Sherry Allen',
+     'Michele Johnson',
+     'Nicole Sizemore',
+     'Rosaisela Betts',
+     'Deborah Laney',
+     'Alison Hazelett',
+     'Spencer Walters',
+     'Rosa Almarez',
+     'Stuart Sindelman',
+     'Angela Montgomery',
+     'Doris Rethard',
+     'Jess Loving',
+     'Helen Yee',
+     'Jerry Boska',
+     'Jordan Bean',
+     'Allison Marte',
+     'Rebajean Emmons',
+     'Alverine Frazier',
+     'Alvina Carrasco',
+     'Cindy Mills-marshall',
+     'Myra Murphy',
+     'Anna Jones',
+     'Judy Albright',
+     'Angela Isaac',
+     'Abubaker Thompson',
+     'Karen Shaw',
+     'Amanda Lynn',
+     'Susan Alexander',
+     'Wendy Yeisley',
+     'Andrew Baeza',
+     'Johnny Carman',
+     'April Gorski',
+     'Tamela Gatlin',
+     'Amber Lautenschlager',
+     'Amber Gray',
+     'Ambra Baker',
+     'Anne Baron',
+     'Ruth Fleming',
+     'Rashell Singha',
+     'James Dorsey',
+     'Jeffrey LaPorte',
+     'Pamala Martinez',
+     'Sam Leal',
+     'Pat Junior',
+     'Lala Gayler',
+     'Gail Linn',
+     'Amit Pompeo',
+     'Antonia Slack',
+     'Kris Bullard',
+     'Josephine Robinson',
+     'Julie Toni',
+     'Anthony Sannito',
+     'Lee Rivera',
+     'Veronica Serrano',
+     'MarJo Allen',
+     'Amy Catherine',
+     ... 4963 more items ],
+  query: 'il.com' }
+{ managers: 
+   [ 'Adam Merrill',
+     'Alisha Bartell',
+     'Courtney Harden',
+     'Loretta Scholl' ],
+  query: 'll.com' }
+{ managers: 
+   [ 'Amanda Lee',
+     'Adam A.',
+     'Addie Purcell',
+     'Patricia Ealy-Manson',
+     'Arturo Green',
+     'Angela Seale',
+     'Albert Abedi',
+     'Alicia Zajac',
+     'Allyson Khalid',
+     'Allen Milner',
+     'Amanda Buchholz',
+     'Amy Holtzman',
+     'Andre Bianchino',
+     'Andrea Steere',
+     'Andrew M.',
+     'Angelia Palacios',
+     'May Ann',
+     'April Stahl',
+     'Ashley Pomponio',
+     'Audrey Tate',
+     'Xander Moss',
+     'Mya Traverso',
+     'Jack Ann',
+     'Barbara Keen',
+     'Barbara Rodgers',
+     'Rosie Hill',
+     'Becky Boyd',
+     'Betty Chambers',
+     'Bettie Click',
+     'Josh Benedict',
+     'Jopa Siebert',
+     'Bernisha Bubba',
+     'Niketa Honea',
+     'Bill Crowder',
+     'Angel Palis',
+     'Keegan Lefebvre',
+     'JAson Kapanpour',
+     'Barbara Krecko',
+     'Robert LeBaron',
+     'Monique Jackson',
+     'Robert Richardson',
+     'Brandon Mckiernan',
+     'Lisa Coleman',
+     'Brandy Kantor',
+     'Amy Eaves',
+     'Carol Sangiuliano',
+     'Lee Neilson',
+     'Chutnie Bailey',
+     'Carlos Hope',
+     'Cara Castaneda',
+     'Jamison Burston-collins',
+     'Charles Pace',
+     'Leilani Maupin',
+     'Cherenet Brown',
+     'Kendall Arena',
+     'Chris Corsaro',
+     'Cindy Gregg',
+     'Dorrine Clabby',
+     'Clint Bay',
+     'Clyde Hsu',
+     'Nely Magruder',
+     'Carol Rivera',
+     'Rita Crosby',
+     'Cynthia Saunders',
+     'Charlotte Taylor',
+     'Todd Zaia',
+     'Christine Vincent',
+     'Cynara Foerstner',
+     'Cathy Skillman',
+     'Dayna McDonnell',
+     'Tatiana DiNicola',
+     'Anthony McGrane',
+     'Onesimo Bromberg',
+     'Dana Mulaly',
+     'Dan H.',
+     'Dave Barnes',
+     'Dave Boyd',
+     'Debbie Gail',
+     'Denise Kelley',
+     'David Griffin',
+     'Dorothy Laguna',
+     'Rachel Anne',
+     'Sylvester Loftus',
+     'Steven Arias',
+     'Daniel Banks',
+     'Dan Tapia',
+     'Dawn Ryan',
+     'Brenda Bonifacio',
+     'Dylan J',
+     'Ebone Pasterick',
+     'Julius Kolber',
+     'Deborah Caldwell',
+     'Ellen Pulido',
+     'Edrina Swinyer',
+     'Amy Evans',
+     'Tawnya Wiggins',
+     'France Felix',
+     'Chris Wood',
+     'Flo-Ann Pierce',
+     'Freddie Meek',
+     ... 199 more items ],
+  query: 'ol.com' }
+{ managers: [ 'Richard Ronald' ], query: 'wl.com' }
+{ managers: [ 'Tony Huynh', 'Maureen Waters', 'Ruth Ray' ],
+  query: 'ay.com' }
+{ managers: [ 'Holly Shook' ], query: 'cy.com' }
+{ managers: [ 'Aleks Hansen' ], query: 'dy.com' }
+{ managers: 
+   [ 'Eric Fair',
+     'Bill Shipley',
+     'Bronson McCauley',
+     'Carol Qualley',
+     'Hunter Swanson',
+     'Amy Ramey',
+     'Jaime Timms',
+     'Kayla Harvey',
+     'Paige Lakey' ],
+  query: 'ey.com' }
+{ managers: [ 'Igor Gesky' ], query: 'ky.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'ly.com' }
+{ managers: [ 'Justin Lee' ], query: 'my.com' }
+{ managers: [ 'Yenny Merritt' ], query: 'ny.com' }
+{ managers: [ 'Dung Decker', 'Matt Riach', 'Sue Perry', 'Tina OBerry' ],
+  query: 'ry.com' }
+{ managers: [ 'Melissa Da' ], query: 'sy.com' }
+{ managers: 
+   [ 'Brenda Wright',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'Dara Snyder',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Jada Noble',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Katrina Brown',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Gindira Vetovick' ],
+  query: 'ty.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ], query: '00.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: '10.com' }
+{ managers: [ 'Gary Fogel' ], query: '50.com' }
+{ managers: [ 'Bernice Demith' ], query: '60.com' }
+{ managers: [ 'Dionna Stoklosa', 'Fareeda Little' ],
+  query: '70.com' }
+{ managers: [ 'Tip Rivera' ], query: '15.com' }
+{ managers: [ 'Teresa Thomas' ], query: '06.com' }
+{ managers: [ 'Kurt Rodweller' ], query: '16.com' }
+{ managers: [ 'Austin Huff' ], query: '26.com' }
+{ managers: [ 'Helen Adams' ], query: '56.com' }
+{ managers: [ 'Priscilla Ray' ], query: '66.com' }
+{ managers: [ 'Carol Williams' ], query: '38.com' }
+{ managers: [ 'Delberta Cardinal' ], query: '59.com' }
+{ managers: [ 'Billy Shields' ], query: '69.com' }
+{ managers: 
+   [ 'A.r. DeFalco',
+     'Carl Wilkins',
+     'Kevin Griffin',
+     'Curtis Johnson',
+     'John Perkins' ],
+  query: 'co.com' }
+{ managers: [ 'Fernando Gregory', 'Philip Florendo' ],
+  query: 'do.com' }
+{ managers: [ 'Daniel Larson' ], query: 'go.com' }
+{ managers: [ 'Jon Hartzell' ], query: 'lo.com' }
+{ managers: 
+   [ 'Rebecca Trujillo',
+     'Betty Smith',
+     'Marilyn Lempicki',
+     'James N',
+     'James Rolleri-',
+     'Jeremy Robinson',
+     'Melissa Kenny',
+     'Morrison Carzino-hartshorn',
+     'Rene Bingaman',
+     'Ronald Davidson',
+     'Shy Gavrilova' ],
+  query: 'no.com' }
+{ managers: 
+   [ 'Natalya Luvinmesumtra',
+     'Linda Larabee',
+     'Deanna Whitfield',
+     'Keisha A',
+     'John Fuentes',
+     'Misha Harris',
+     'David Brightman',
+     'Jimmy A.',
+     'MzCheeks Sigwald',
+     'Ayron Cooke',
+     'Joseph Maietta',
+     'Chris Parmely',
+     'Diane Richardson',
+     'Aaliyah Monique',
+     'Aaron Lyons',
+     'Aaron HAgos',
+     'Aaron Noori',
+     'Maura White',
+     'Amber Banack',
+     'Kainan Original',
+     'Abby Medina',
+     'Robin Abdullah',
+     'Perumunda Bell',
+     'Albert Barclay',
+     'Alto Long',
+     'Abran Mansilla',
+     'Nancy Bruce',
+     'Justin Rodriguez',
+     'Sharde Albert',
+     'Joseph Carroll',
+     'Alicia Nicole',
+     'Elaine Marie',
+     'Aj Conklin',
+     'Alicia Cowdin',
+     'Gene Boutwell',
+     'Allen Criswell',
+     'Tasha ToupsJr',
+     'Adalberto Kuruvilla',
+     'Adam Sampley',
+     'Tina Adams',
+     'Angel Canty',
+     'Adele Johnson',
+     'Harold Doher',
+     'Adrian Laititi',
+     'Adriana Webster',
+     'Adrian Jacobs',
+     'Adrianne Posada',
+     'Drew Genoveve',
+     'Malibu Bolin',
+     'Stan Nicole',
+     'Robert Monti',
+     'Pat Tfc',
+     'Gus Vanisi',
+     'Adam Patin',
+     'Nora Blackwell',
+     'Andrew Parker',
+     'Ava Gulmesoff',
+     'Heather Hawley',
+     'Andy Heywood',
+     'Ahmed Lisi',
+     'Pastor Ama',
+     'Iraj Craig',
+     'Aigner M',
+     'Ricky Bowlin',
+     'Ailyn Allen',
+     'Dalena Iokheles',
+     'Inez Irwin',
+     'Aj Howard',
+     'Aj Kelly',
+     'Aja Faye',
+     'Alex Diaz',
+     'Ajay Singleton',
+     'Amber Jones',
+     'Anthony Powers',
+     'Anjanette Vidal',
+     'Jan L.',
+     'Kefflyn Collins',
+     'Alan Primeaux',
+     'Alan Shelley',
+     'Al Garcia',
+     'Irene Ahlgrim',
+     'Floyd Soderstrom',
+     'Albert Nicole&#39;',
+     'Debbie J.',
+     'Alecia Frazie',
+     'Aleida L',
+     'Aleksandar Copeland',
+     'Alan Erin',
+     'Tracy Ksas',
+     'Alexander Isfahani',
+     'Alexandra Overby',
+     'Alexandra Kassa',
+     'Alexander Dalton',
+     'Alexis Shields',
+     'Alex Otun',
+     'Al Festus',
+     'Alfred Sanchez',
+     'Alfredo Lee',
+     'Elfi Algeo',
+     'Albert Halley',
+     ... 4799 more items ],
+  query: 'oo.com' }
+{ managers: 
+   [ 'Kurt Cox-sanchez',
+     'Kevin DeLauro',
+     'Kim Nuamah',
+     'Natasha Cox',
+     'Ronald Odom',
+     'Tim Frey' ],
+  query: 'ro.com' }
+{ managers: [ 'Sasia Mehta', 'Billy Beattie' ],
+  query: 'vo.com' }
+{ managers: [ 'DeAndre Bristow', 'Melinda Diaz' ],
+  query: '@q.com' }
+{ managers: 
+   [ 'Erik Casillas',
+     'Irving Mascarenas',
+     'Kelly Williams',
+     'William Schinder' ],
+  query: 'as.com' }
+{ managers: [ 'Bonnie A', 'Jonathan Johnson', 'Mike Cook' ],
+  query: 'cs.com' }
+{ managers: 
+   [ 'Corina Simonds',
+     'Crystal Andrews',
+     'David Fisher',
+     'Dianna Maxwell',
+     'Greg Shyshko',
+     'Harsha Noring' ],
+  query: 'ds.com' }
+{ managers: 
+   [ 'Aimee Pelayo',
+     'Amanda Rahm',
+     'Patricia Emerling',
+     'Anthony Sellers',
+     'Arn O&#39;Neal',
+     'Aubrey Murphy',
+     'Shana Johnson',
+     'Brad DiSano',
+     'Brandi A.',
+     'Billi Taylor',
+     'Devon Wheeler',
+     'Claudie Pittman',
+     'Cynthia Rivera',
+     'Cynthia Descant',
+     'Danny Johnson',
+     'Deborah Jensen',
+     'Denise Mercado',
+     'Dylan Buchta',
+     'Chad Schwendener',
+     'Jalika Sullivan',
+     'Jarret Davis',
+     'Jason Smith',
+     'Jerry Corson',
+     'Jody Dukes',
+     'Jen Johnson',
+     'Jenny Park',
+     'Jerry Sepulvado',
+     'Joey Holt',
+     'Jonathan Rose',
+     'Joyce Ashmore',
+     'Judi Taylor',
+     'Janie Wilson',
+     'Loretta Homes',
+     'Lisa Pualani',
+     'Lyza Jackson',
+     'Mary Phillips',
+     'Mary Baillie',
+     'Mitchell LaValla',
+     'Nadine Miles',
+     'Neal Goetsch',
+     'Nicole Klein',
+     'Nora Viviano',
+     'Pam Chaplin',
+     'Patricia Gates',
+     'Saf Daisey',
+     'Shannon Heisser',
+     'Sandi Jarvis',
+     'Stephen Stover',
+     'Terry Cusano',
+     'UcLeoma Townes',
+     'Winnie Fuller' ],
+  query: 'es.com' }
+{ managers: [ 'Jenny Billings' ], query: 'gs.com' }
+{ managers: 
+   [ 'Cora Hargrove',
+     'Emily Sigmon',
+     'Ing-Ing Parrish',
+     'Joe Saunders',
+     'Jorge Young',
+     'Justin Pecunes',
+     'Rick Davis',
+     'Lynn Degrandis',
+     'Ronald Mai',
+     'Thomasena Hollingsworth',
+     'Tomothy Harris',
+     'Travis Garcia',
+     'Tu G.' ],
+  query: 'is.com' }
+{ managers: 
+   [ 'Ashley Pease',
+     'Georgia Nickerson',
+     'Ryan Overby',
+     'Lola Dixon',
+     'Paula Kouretas' ],
+  query: 'ls.com' }
+{ managers: [ 'Belinda Phillips', 'Jason Helms' ],
+  query: 'ms.com' }
+{ managers: 
+   [ 'Brent Coulon',
+     'Daniel Cardona',
+     'Erin Stone',
+     'Howard Jaggers',
+     'NaTisha D.',
+     'Taneshia Derringer',
+     'Travis Slemp-Owens' ],
+  query: 'ns.com' }
+{ managers: 
+   [ 'Alisa Barber',
+     'Cynthia Ochoa',
+     'Jenna Christopher',
+     'Linda Schuman',
+     'Neble Martin',
+     'Sue Hoefer' ],
+  query: 'os.com' }
+{ managers: [ 'Patti French-Tickler' ], query: 'ps.com' }
+{ managers: 
+   [ 'Annie Ulibarri',
+     'Anand Bowman',
+     'David Phang-Mager',
+     'Dennis Houck',
+     'Einar Holman',
+     'Helen Menephee',
+     'Janice Walker',
+     'Jodi Baldwin',
+     'Jerry Baker',
+     'Jessum Shelton',
+     'John Fox',
+     'Juanita C',
+     'Kathy Baumgartner',
+     'Karen Robert',
+     'Tameika Alvarez-Cardenas',
+     'Richard Gibson',
+     'Russ Greer' ],
+  query: 'rs.com' }
+{ managers: 
+   [ 'Dennis Wujek',
+     'Jerome Flowers',
+     'Kathy Weaver',
+     'Karen Weller' ],
+  query: 'ts.com' }
+{ managers: [ 'Anthony Manelas', 'Roosta DowntownColumbus', 'Ronald Morgan' ],
+  query: 'us.com' }
+{ managers: [ 'Jodi Baldwin' ], query: 'ys.com' }
+{ managers: [ 'Donald Coleman' ], query: 'av.com' }
+{ managers: [ 'Ann Harrison', 'Kevin F.' ], query: 'ev.com' }
+{ managers: 
+   [ 'Astria Allen',
+     'Brett Wade',
+     'Brian Yerdon',
+     'Donn Colwick',
+     'Dania Gruman',
+     'David Boyer',
+     'David Moore',
+     'Erik Jordan',
+     'Gabriel L.',
+     'Harold Hollifield',
+     'Jube Woodward',
+     'Kevin MacDonald',
+     'Patrick Disrud',
+     'Bob Barnes',
+     'Ray Pizarro',
+     'Susie R.' ],
+  query: 'aw.com' }
+{ managers: [ 'Tracy New' ], query: 'ew.com' }
+{ managers: 
+   [ 'Chaunya Debaere',
+     'Dave Forsyth',
+     'Debby Jarvis',
+     'David Fickett',
+     'Ghamar Griffith',
+     'Gabriella Taylor',
+     'Jeff Richardson',
+     'Joyce Holley',
+     'Julia Terrell',
+     'Katie Skinner',
+     'Kitty Kraft',
+     'Kristy Hawkins',
+     'Linda Brown',
+     'Randy Farzanhe',
+     'Ratnajyothi Caskey',
+     'Audrianna Massey',
+     'Dwight Switow' ],
+  query: 'kw.com' }
+{ managers: [ 'G Wise-Jennings' ], query: 'sw.com' }
+{ managers: [ 'Vincent Johnson' ], query: 'tw.com' }
+{ managers: [ 'Rose Norcross' ], query: 'ex.com' }
+{ managers: [ 'Cheryl Lantz', 'Jon Morales', 'Michael Roberts' ],
+  query: 'ox.com' }
+{ managers: [ 'Hugo Rodriguez', 'Massaad South' ],
+  query: 'az.com' }
+{ managers: [ 'Chris Tamez' ], query: 'ez.com' }
+{ managers: [ 'Crawford L.', 'Kaitlyn Johnson' ],
+  query: 'tz.com' }
+{ managers: [ 'Dinah Mount' ], query: 'm2.com' }
+{ managers: [ 'Samantha Goldfarb' ], query: '02.com' }
+{ managers: [ 'Sandie Wood' ], query: 'd1.com' }
+{ managers: [ 'Tnai Solorzano' ], query: '01.com' }
+{ managers: 
+   [ 'Jeannette Moore',
+     'Jacqueline White',
+     'Jenifer M.',
+     'Lacey Jones',
+     'Sonny Kubic',
+     'Stan Madia' ],
+  query: '21.com' }
+{ managers: [ 'FranMayca Chen' ], query: '_1.com' }
+{ managers: [ 'Taylor Coleman' ], query: '33.com' }
+{ managers: [ 'Dora Wesalowski' ], query: '53.com' }
+{ managers: [ 'Kathleen Nolan' ], query: 'ct.com' }
+{ managers: [ 'Colleen Mittelstadt' ], query: 'dt.com' }
+{ managers: 
+   [ 'Beth Betts',
+     'Bobbie Cross',
+     'Curt Al',
+     'Darla Hayden',
+     'Tina Gamble',
+     'Misty Edward',
+     'Than Manny',
+     'Patty Williams',
+     'Linda Lesher' ],
+  query: 'et.com' }
+{ managers: [ 'Claudia Frederiksen' ], query: 'ft.com' }
+{ managers: [ 'Reed Ruggiero' ], query: 'gt.com' }
+{ managers: [ 'Ife Morales', 'Wes Knight' ], query: 'ht.com' }
+{ managers: [ 'Charlene Rollinson', 'Pamalla R.' ],
+  query: 'it.com' }
+{ managers: [ 'Howard Pulce', 'Ivonne Daza', 'Michael Jones' ],
+  query: 'nt.com' }
+{ managers: [ 'Catherine Griggs' ], query: 'ot.com' }
+{ managers: 
+   [ 'Brenna Bauer',
+     'Leon Weichert',
+     'Jessica Ehrhart',
+     'Joseph Lane',
+     'Leah Hart' ],
+  query: 'rt.com' }
+{ managers: 
+   [ 'Jessabella West',
+     'Drew Willis',
+     'Joe Bishop',
+     'Samantha Andersson-Ahmed',
+     'Sarah Noma' ],
+  query: 'st.com' }
+{ managers: 
+   [ 'Barbara Falavigna',
+     'Rebecca Mebane',
+     'Tim Youngblood-Shaw',
+     'Jay Connor',
+     'Lexa Froland',
+     'Marie Alavekios',
+     'Sarah Martin',
+     'Teresa Pitt',
+     'Yvonne Virnig' ],
+  query: 'tt.com' }
+{ managers: [ 'Nicole Luscombe' ], query: 'lu.com' }
+{ managers: [ 'Cinda Martinson' ], query: 'ica.com' }
+{ managers: [ 'Josh Wojtczak' ], query: 'mba.com' }
+{ managers: [ 'Fay Rae' ], query: 'ida.com' }
+{ managers: [ 'LaJuanda Tacznosky' ], query: 'nda.com' }
+{ managers: [ 'Gene Rocha' ], query: 'cha.com' }
+{ managers: [ 'Brandon Botha' ], query: 'tha.com' }
+{ managers: [ 'Taneshia Derringer' ], query: 'hia.com' }
+{ managers: [ 'Dottie Maaske' ], query: 'lia.com' }
+{ managers: [ 'Amanda Molina', 'Julia Medina', 'Zina Commings' ],
+  query: 'ina.com' }
+{ managers: [ 'Donna Spalding', 'Eddie Eggert', 'Markiya K.' ],
+  query: 'nna.com' }
+{ managers: [ 'Virgilio Teele' ], query: 'ona.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'cpa.com' }
+{ managers: [ 'Dexter Lubezky' ], query: 'era.com' }
+{ managers: [ 'Stanley Gray' ], query: 'gra.com' }
+{ managers: [ 'Kyra Comer' ], query: 'yra.com' }
+{ managers: [ 'Angie Carr' ], query: 'lsa.com' }
+{ managers: [ 'Lidia Conde' ], query: 'usa.com' }
+{ managers: [ 'Tonya Tepper' ], query: 'nta.com' }
+{ managers: [ 'Shellie Mulry' ], query: 'sta.com' }
+{ managers: [ 'Guy Cook' ], query: 'pva.com' }
+{ managers: [ 'Lissette Stovall' ], query: 'oma.com' }
+{ managers: [ 'Pat Powell' ], query: 'uma.com' }
+{ managers: [ 'Michael Lebovich' ], query: 'lla.com' }
+{ managers: [ 'Ileana Hartje' ], query: 'ola.com' }
+{ managers: [ 'Tara Sprinkle', 'Aaron Erna' ],
+  query: 'ska.com' }
+{ managers: [ 'Casey Smith', 'Dominic Booth', 'Floyd Duff', 'Susan Baker' ],
+  query: 'tbb.com' }
+{ managers: [ 'Latoya Lerer' ], query: 'oya.com' }
+{ managers: [ 'Scott Ceballos' ], query: 'rec.com' }
+{ managers: [ 'Yolanda Israel' ], query: 'jac.com' }
+{ managers: 
+   [ 'David B.',
+     'Dexter Waddick',
+     'Kathy Cecchetti',
+     'Antowne Perez',
+     'Bill Brunson' ],
+  query: 'mac.com' }
+{ managers: [ 'Mary Winslow' ], query: 'thc.com' }
+{ managers: [ 'James Dipofi' ], query: 'mic.com' }
+{ managers: [ 'Tamaya Sykora' ], query: 'ykc.com' }
+{ managers: [ 'Damian Canter' ], query: 'llc.com' }
+{ managers: [ 'Metina Tilghman' ], query: '8mc.com' }
+{ managers: [ 'Duane Bayford', 'Fritz Dwiggins' ],
+  query: 'inc.com' }
+{ managers: [ 'Abdul Felick' ], query: 'ync.com' }
+{ managers: [ 'Audrey Martin' ], query: 'aoc.com' }
+{ managers: [ 'Tiffany O&#39;Connors' ], query: 'yoc.com' }
+{ managers: 
+   [ 'Mary Santivanez',
+     'Jerrod Goins',
+     'Christina H',
+     'Ron Klein',
+     'Jay Middleton' ],
+  query: 'epc.com' }
+{ managers: [ 'John Kearney' ], query: 'atc.com' }
+{ managers: [ 'Melissa Paulette' ], query: 'ctc.com' }
+{ managers: [ 'Foxie Chambers' ], query: 'rtc.com' }
+{ managers: [ 'Jean Dahlberg' ], query: 'ttc.com' }
+{ managers: [ 'Eddie Braun' ], query: 'ieb.com' }
+{ managers: [ 'Brenda Brown' ], query: 'red.com' }
+{ managers: [ 'Matt Thaler' ], query: 'ted.com' }
+{ managers: [ 'David Hauge' ], query: 'vid.com' }
+{ managers: [ 'Elaine R' ], query: 'eld.com' }
+{ managers: [ 'Jamie Kay', 'Kathy Frazer' ], query: 'old.com' }
+{ managers: [ 'Janelle Pouliot' ], query: 'rld.com' }
+{ managers: [ 'Kia Hand' ], query: 'and.com' }
+{ managers: 
+   [ 'Andrew Bannerman',
+     'Anthony Greenwood',
+     'Jocelyn Heywood',
+     'John Mcpherson',
+     'Karen Davis',
+     'Patricia Block' ],
+  query: 'ood.com' }
+{ managers: [ 'Brian Milne' ], query: 'ard.com' }
+{ managers: [ 'Elizabeth Tinker' ], query: 'usd.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'ltd.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'oyd.com' }
+{ managers: [ 'Ron Painter' ], query: 'rff.com' }
+{ managers: [ 'Barbara Lee', 'Inga Cahn' ], query: 'uff.com' }
+{ managers: [ 'Lindsie Shobe' ], query: 'obe.com' }
+{ managers: [ 'David Kane' ], query: 'ref.com' }
+{ managers: [ 'Ana Gallagher', 'Jesse Ruiz' ],
+  query: 'age.com' }
+{ managers: [ 'Brandie Kohr', 'Brian Torres' ],
+  query: 'dge.com' }
+{ managers: [ 'Inez Jacobazzi', 'Wayne Meyer' ],
+  query: 'nge.com' }
+{ managers: [ 'Robert George' ], query: 'rge.com' }
+{ managers: [ 'Daniel Larson' ], query: 'ice.com' }
+{ managers: [ 'Antoinette True' ], query: 'nce.com' }
+{ managers: [ 'Debbie Gatchel' ], query: 'nie.com' }
+{ managers: [ 'Cynthia Boganwright' ], query: 'tee.com' }
+{ managers: 
+   [ 'Allan Wilson',
+     'Danny Hale',
+     'John Dorman',
+     'Laura Crownover',
+     'Michael Smith',
+     'Mike White',
+     'William Harkleraod' ],
+  query: 'ike.com' }
+{ managers: [ 'Carolyn Engle' ], query: 'gle.com' }
+{ managers: [ 'Deborah Nicole' ], query: 'ole.com' }
+{ managers: [ 'Bill Williams' ], query: 'ple.com' }
+{ managers: [ 'Bert Newcomb' ], query: 'gne.com' }
+{ managers: 
+   [ 'Alain Corcoran',
+     'Robert Cochran',
+     'Cheria Grimes',
+     'Dani Pick',
+     'Dave Strieder',
+     'Gail Cutchall',
+     'Melissa Sah' ],
+  query: 'ine.com' }
+{ managers: [ 'John Lavon', 'Joyce Elliott' ],
+  query: 'one.com' }
+{ managers: 
+   [ 'Alvis Geisler',
+     'Amanda Elizabeth',
+     'Chelsey Schunek',
+     'Curtis Tony',
+     'Teniesha Passio',
+     'George East',
+     'Jacob Crespo',
+     'John Barcenas',
+     'Monica Durante',
+     'Murray Thomas',
+     'Sanjay Key' ],
+  query: 'ate.com' }
+{ managers: 
+   [ 'Joanne Vincent',
+     'Dustin Kamp',
+     'Eugenia Taylor',
+     'Garry Oxner',
+     'Antoine Anderson',
+     'Steve White',
+     'Tommi Guglielmo' ],
+  query: 'ite.com' }
+{ managers: [ 'Mickey Wheeler' ], query: 'ute.com' }
+{ managers: [ 'Susan Dye' ], query: 'dye.com' }
+{ managers: [ 'Joe Beth' ], query: 'teg.com' }
+{ managers: [ 'Christina Jones' ], query: 'pmg.com' }
+{ managers: 
+   [ 'Bernice Don',
+     'Briana Lapciuc',
+     'Patrick Crawford',
+     'Howard Mack',
+     'Jo-Anne Austin',
+     'Mark Davidson',
+     'Nicole Miller',
+     'Bob Febres',
+     'Sherika Smith',
+     'Kathy Beard',
+     'Yaquelin R.' ],
+  query: 'ing.com' }
+{ managers: [ 'Angelo Delgleize' ], query: 'ach.com' }
+{ managers: [ 'Chad Schwendener', 'Jimmie Schoenberger' ],
+  query: 'ech.com' }
+{ managers: [ 'Brett Horwich' ], query: 'ich.com' }
+{ managers: [ 'Jack Spradley' ], query: 'rch.com' }
+{ managers: [ 'Frank Maluki' ], query: 'sch.com' }
+{ managers: [ 'Adam Hodge' ], query: 'ugh.com' }
+{ managers: [ 'Tina Nemeth' ], query: 'eth.com' }
+{ managers: [ 'Doug Smith', 'James Hutchison', 'Marji Smith' ],
+  query: 'ith.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'ank.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'ook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'yfi.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'ggi.com' }
+{ managers: [ 'Dhansukhlal Whitcomb' ], query: 'whi.com' }
+{ managers: [ 'Dani Howard' ], query: 'ani.com' }
+{ managers: [ 'Deb Davis' ], query: 'mni.com' }
+{ managers: [ 'Jesse Giorgianni' ], query: 'nni.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'hsi.com' }
+{ managers: [ 'Azrag Borghetti' ], query: 'tti.com' }
+{ managers: [ 'Billie Adams', 'Missy Schmitt' ],
+  query: 'bre.com' }
+{ managers: [ 'Yvette Clifford' ], query: 'dre.com' }
+{ managers: 
+   [ 'Connie Carpenter',
+     'Cass Perkins',
+     'Cici Saenz',
+     'Dee Busey',
+     'Diane Rogers',
+     'Tj Walchak',
+     'Georgianna D&#39;Eau',
+     'Heather WInter',
+     'Jeff Watson',
+     'Karen C.',
+     'Kristine Franklin-Patterson',
+     'Lindsey Taylor',
+     'Greg Levias-Edmondson',
+     'Nikki Bryant',
+     'Seth Unruh',
+     'Vincenzo Menefee',
+     'Wilna Bassler' ],
+  query: 'ere.com' }
+{ managers: [ 'Robert Citron' ], query: 'lre.com' }
+{ managers: [ 'Mobb Mcfadden', 'SweetDreamz Callahan' ],
+  query: 'nre.com' }
+{ managers: [ 'Christina Weaver-Purtill' ], query: 'ore.com' }
+{ managers: [ 'Shay Martinez' ], query: 'rre.com' }
+{ managers: [ 'Jennifer Blair' ], query: 'ase.com' }
+{ managers: [ 'Eliza Reese' ], query: 'ese.com' }
+{ managers: [ 'Debbie Jasko' ], query: 'ose.com' }
+{ managers: [ 'Kristin Nicholls', 'Lida Fox' ],
+  query: 'use.com' }
+{ managers: [ 'Doris N' ], query: 'aui.com' }
+{ managers: [ 'June Gaspar' ], query: 'den.com' }
+{ managers: [ 'Sabrina McLean' ], query: 'ean.com' }
+{ managers: [ 'Brittney Phelan' ], query: 'lan.com' }
+{ managers: [ 'Adejimi Kelley', 'Carlos Inman', 'Karl L.', 'Michael Maybee' ],
+  query: 'man.com' }
+{ managers: [ 'Latosha Lee' ], query: 'yan.com' }
+{ managers: [ 'Alexander Wilson' ], query: 'ain.com' }
+{ managers: [ 'Mitchell Mullin' ], query: 'lin.com' }
+{ managers: [ 'Donna King' ], query: 'nin.com' }
+{ managers: [ 'Deborah Gomez' ], query: 'tin.com' }
+{ managers: [ 'Folusho Berezin' ], query: 'zin.com' }
+{ managers: [ 'Sukhvir McLean' ], query: 'smn.com' }
+{ managers: [ 'Douglas Morris' ], query: 'don.com' }
+{ managers: [ 'Jeff Winburne', 'Kim C.' ], query: 'ion.com' }
+{ managers: [ 'Jody Gonzales' ], query: 'mon.com' }
+{ managers: [ 'Leonard Barron' ], query: 'ron.com' }
+{ managers: 
+   [ 'Brian Huson',
+     'E.P. E',
+     'John Beatty',
+     'Ken Addison',
+     'Maxim Tyson',
+     'Nick Carson',
+     'Tom Wilson' ],
+  query: 'son.com' }
+{ managers: [ 'Cheryl Kelly', 'Chris Alan' ], query: 'ton.com' }
+{ managers: [ 'Angela Osburn-Nixon' ], query: 'xon.com' }
+{ managers: [ 'Gil Kate', 'Tyrail W.' ], query: 'yon.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'gal.com' }
+{ managers: [ 'Bob A.' ], query: 'ial.com' }
+{ managers: [ 'Adam Whitmus', 'Cristina Taylor' ],
+  query: 'sal.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'ael.com' }
+{ managers: [ 'Joe Meyer', 'Pete Hdez' ], query: 'sel.com' }
+{ managers: [ 'Alice Hinkelmann', 'Christine Benii' ],
+  query: 'tel.com' }
+{ managers: 
+   [ 'Alma R',
+     'A.w. Kim',
+     'Jalah Rincon',
+     'LeighAnn Vialpando',
+     'Andrew Austin',
+     'Anthony Garbo',
+     'Frank Malfa',
+     'Amy E.',
+     'Pam Lucas',
+     'Alan Aguilera',
+     'Lauren Kier',
+     'Anna Higgins',
+     'Sonia Bossone',
+     'Mahmoud Sathe',
+     'Sherri Heyliger',
+     'Ahmad Donnelly',
+     'Adrian Smith',
+     'Ady Watts',
+     'Tim Thomas',
+     'Brandy Abdullah',
+     'Andreas Kay',
+     'Alice Brewer',
+     'Alaine Nastari',
+     'Tiffiny Levi',
+     'Alanlade Wayman',
+     'Judy Albert',
+     'Alex Smith',
+     'Alex Walker',
+     'Jack Sarigianidis-Wright',
+     'LeXii Boone',
+     'Georgia Woods',
+     'Elva Ghanavati',
+     'Alicia Clark',
+     'Alison Shewell',
+     'Alicia Stilger',
+     'Lisa Asaad',
+     'Alishia Johnson',
+     'Vickie Huxman',
+     'Jackie Galesky',
+     'Annette He',
+     'Mary Lowe',
+     'Philip Allen',
+     'Stephanie Huckins',
+     'Allen McFarlin',
+     'Sherry Allen',
+     'Michele Johnson',
+     'Nicole Sizemore',
+     'Rosaisela Betts',
+     'Deborah Laney',
+     'Alison Hazelett',
+     'Spencer Walters',
+     'Rosa Almarez',
+     'Stuart Sindelman',
+     'Angela Montgomery',
+     'Doris Rethard',
+     'Jess Loving',
+     'Helen Yee',
+     'Jerry Boska',
+     'Jordan Bean',
+     'Allison Marte',
+     'Rebajean Emmons',
+     'Alverine Frazier',
+     'Alvina Carrasco',
+     'Cindy Mills-marshall',
+     'Myra Murphy',
+     'Anna Jones',
+     'Judy Albright',
+     'Angela Isaac',
+     'Abubaker Thompson',
+     'Karen Shaw',
+     'Amanda Lynn',
+     'Susan Alexander',
+     'Wendy Yeisley',
+     'Andrew Baeza',
+     'Johnny Carman',
+     'April Gorski',
+     'Tamela Gatlin',
+     'Amber Lautenschlager',
+     'Amber Gray',
+     'Ambra Baker',
+     'Anne Baron',
+     'Ruth Fleming',
+     'Rashell Singha',
+     'James Dorsey',
+     'Jeffrey LaPorte',
+     'Pamala Martinez',
+     'Sam Leal',
+     'Pat Junior',
+     'Lala Gayler',
+     'Gail Linn',
+     'Amit Pompeo',
+     'Antonia Slack',
+     'Kris Bullard',
+     'Josephine Robinson',
+     'Julie Toni',
+     'Anthony Sannito',
+     'Lee Rivera',
+     'Veronica Serrano',
+     'MarJo Allen',
+     'Amy Catherine',
+     ... 4961 more items ],
+  query: 'ail.com' }
+{ managers: [ 'Lucille Smith' ], query: 'hil.com' }
+{ managers: [ 'Luis McQuain' ], query: 'nil.com' }
+{ managers: [ 'Alisha Bartell', 'Courtney Harden' ],
+  query: 'ell.com' }
+{ managers: [ 'Adam Merrill' ], query: 'ill.com' }
+{ managers: [ 'Loretta Scholl' ], query: 'oll.com' }
+{ managers: [ 'Reginald Ann' ], query: 'ann.com' }
+{ managers: 
+   [ 'Amber Muro',
+     'Bruce Mason',
+     'Ana Bogojevich',
+     'Angie Leo',
+     'Ann Hartel',
+     'Ann Marie',
+     'Mae Mathis',
+     'Sherry Hager',
+     'Jamey Platt',
+     'Ben Grieco',
+     'Bernie Allen',
+     'Boukou Arvizu',
+     'Brad Robison',
+     'Bilal Santacapita',
+     'Alice Vanderveer',
+     'Christine Assante',
+     'Don Collier',
+     'Danielle Larsen',
+     'Diane Johnson',
+     'Bruce Moore',
+     'Jeffrey D',
+     'Kimberly A.',
+     'Enrique Skelton',
+     'Sue Farmer',
+     'Fran James',
+     'Amanda Seeram',
+     'Jessica Krause',
+     'Gordon Betker',
+     'Grisel Jean',
+     'Heyoung Bair',
+     'Stacey Willson',
+     'Jim Lopez',
+     'Julie La',
+     'John Oakes',
+     'Jonathan Davidson',
+     'Jackie Carter',
+     'Justin Sainz',
+     'Karen A',
+     'Karen Streeter',
+     'Angel Jackman',
+     'Keionie Barnes',
+     'Kimesha McWilliams',
+     'Kimmie Sivek',
+     'Kristina Camodeca',
+     'Kathleen Dameworth',
+     'Corey Leader',
+     'Marquitta Galvin',
+     'Marie Hsieh',
+     'Marsha Guiracocha',
+     'Mike Hausker',
+     'Joy Wright',
+     'Missy Gumbert',
+     'Missy Owen',
+     'Nikiya Colett-Sanders',
+     'Pris Vytlacil',
+     'Patty Miller',
+     'Ray Scott',
+     'Ricky Pinsonnault',
+     'Keith Romrell',
+     'Ronda Nelson',
+     'Sandy Gaspar',
+     'Shayli Roffo',
+     'Sherry Worster',
+     'Don Lisak',
+     'Denie Neese',
+     'Lars Frederick',
+     'Stuart Gelbman',
+     'James Cormie',
+     'Sonya White',
+     'Tami Jarjour',
+     'Veslemoy Qiming',
+     'Teresa A.',
+     'Ethan Thao',
+     'Tina Gonzalez',
+     'Tracie Zagorski',
+     'Tracy Sexton',
+     'Vernon Basile',
+     'Terra Jordan',
+     'Zach Caprice',
+     'Ashley J' ],
+  query: 'msn.com' }
+{ managers: 
+   [ 'Amanda Lee',
+     'Adam A.',
+     'Addie Purcell',
+     'Patricia Ealy-Manson',
+     'Arturo Green',
+     'Angela Seale',
+     'Albert Abedi',
+     'Alicia Zajac',
+     'Allyson Khalid',
+     'Allen Milner',
+     'Amanda Buchholz',
+     'Amy Holtzman',
+     'Andre Bianchino',
+     'Andrea Steere',
+     'Andrew M.',
+     'Angelia Palacios',
+     'May Ann',
+     'April Stahl',
+     'Ashley Pomponio',
+     'Audrey Tate',
+     'Xander Moss',
+     'Mya Traverso',
+     'Jack Ann',
+     'Barbara Keen',
+     'Barbara Rodgers',
+     'Rosie Hill',
+     'Becky Boyd',
+     'Betty Chambers',
+     'Bettie Click',
+     'Josh Benedict',
+     'Jopa Siebert',
+     'Bernisha Bubba',
+     'Niketa Honea',
+     'Bill Crowder',
+     'Angel Palis',
+     'Keegan Lefebvre',
+     'JAson Kapanpour',
+     'Barbara Krecko',
+     'Robert LeBaron',
+     'Monique Jackson',
+     'Robert Richardson',
+     'Brandon Mckiernan',
+     'Lisa Coleman',
+     'Brandy Kantor',
+     'Amy Eaves',
+     'Carol Sangiuliano',
+     'Lee Neilson',
+     'Chutnie Bailey',
+     'Carlos Hope',
+     'Cara Castaneda',
+     'Jamison Burston-collins',
+     'Charles Pace',
+     'Leilani Maupin',
+     'Cherenet Brown',
+     'Kendall Arena',
+     'Chris Corsaro',
+     'Cindy Gregg',
+     'Dorrine Clabby',
+     'Clint Bay',
+     'Clyde Hsu',
+     'Nely Magruder',
+     'Carol Rivera',
+     'Rita Crosby',
+     'Cynthia Saunders',
+     'Charlotte Taylor',
+     'Todd Zaia',
+     'Christine Vincent',
+     'Cynara Foerstner',
+     'Cathy Skillman',
+     'Dayna McDonnell',
+     'Tatiana DiNicola',
+     'Anthony McGrane',
+     'Onesimo Bromberg',
+     'Dana Mulaly',
+     'Dan H.',
+     'Dave Barnes',
+     'Dave Boyd',
+     'Debbie Gail',
+     'Denise Kelley',
+     'David Griffin',
+     'Dorothy Laguna',
+     'Rachel Anne',
+     'Sylvester Loftus',
+     'Steven Arias',
+     'Daniel Banks',
+     'Dan Tapia',
+     'Dawn Ryan',
+     'Brenda Bonifacio',
+     'Dylan J',
+     'Ebone Pasterick',
+     'Julius Kolber',
+     'Deborah Caldwell',
+     'Ellen Pulido',
+     'Edrina Swinyer',
+     'Amy Evans',
+     'Tawnya Wiggins',
+     'France Felix',
+     'Chris Wood',
+     'Flo-Ann Pierce',
+     'Freddie Meek',
+     ... 199 more items ],
+  query: 'aol.com' }
+{ managers: [ 'Bonnie Rosescu' ], query: 'yfl.com' }
+{ managers: [ 'Richard Ronald' ], query: 'awl.com' }
+{ managers: [ 'Ruth Ray' ], query: 'ray.com' }
+{ managers: [ 'Tony Huynh', 'Maureen Waters' ],
+  query: 'way.com' }
+{ managers: [ 'Holly Shook' ], query: 'ncy.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'ily.com' }
+{ managers: [ 'Justin Lee' ], query: 'rmy.com' }
+{ managers: [ 'Yenny Merritt' ], query: 'nny.com' }
+{ managers: [ 'Jada Noble' ], query: 'ity.com' }
+{ managers: 
+   [ 'Brenda Wright',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'Dara Snyder',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Katrina Brown',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Gindira Vetovick' ],
+  query: 'lty.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: '000.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: '710.com' }
+{ managers: [ 'Gary Fogel' ], query: 'l50.com' }
+{ managers: [ 'Igor Gesky' ], query: 'sky.com' }
+{ managers: [ 'Aleks Hansen' ], query: 'ody.com' }
+{ managers: [ 'Paige Lakey' ], query: 'key.com' }
+{ managers: 
+   [ 'Eric Fair',
+     'Bill Shipley',
+     'Bronson McCauley',
+     'Carol Qualley',
+     'Hunter Swanson',
+     'Jaime Timms' ],
+  query: 'ley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'mey.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'vey.com' }
+{ managers: [ 'Melissa Da' ], query: 'asy.com' }
+{ managers: [ 'Matt Riach', 'Sue Perry', 'Tina OBerry' ],
+  query: 'rry.com' }
+{ managers: [ 'Dung Decker' ], query: 'try.com' }
+{ managers: [ 'Fareeda Little' ], query: '070.com' }
+{ managers: [ 'Dionna Stoklosa' ], query: '970.com' }
+{ managers: [ 'Bernice Demith' ], query: '960.com' }
+{ managers: [ 'Tip Rivera' ], query: '215.com' }
+{ managers: [ 'Teresa Thomas' ], query: '006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'r16.com' }
+{ managers: [ 'Austin Huff' ], query: '126.com' }
+{ managers: [ 'Helen Adams' ], query: '956.com' }
+{ managers: [ 'Priscilla Ray' ], query: '466.com' }
+{ managers: [ 'Carol Williams' ], query: '438.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'a59.com' }
+{ managers: 
+   [ 'Andrew Bannerman',
+     'Anthony Greenwood',
+     'Jocelyn Heywood',
+     'John Mcpherson',
+     'Karen Davis',
+     'Patricia Block' ],
+  query: 'wood.com' }
+{ managers: [ 'Julia Medina' ], query: 'dina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'lina.com' }
+{ managers: [ 'Zina Commings' ], query: 'zina.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'ncpa.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'yltd.com' }
+{ managers: [ 'Ron Painter' ], query: 'orff.com' }
+{ managers: [ 'Christina Jones' ], query: 'kpmg.com' }
+{ managers: [ 'Elaine R' ], query: 'ield.com' }
+{ managers: [ 'Kia Hand' ], query: 'hand.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'loyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'cook.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'aggi.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'ryfi.com' }
+{ managers: [ 'June Gaspar' ], query: 'lden.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'bank.com' }
+{ managers: [ 'Justin Lee' ], query: 'ermy.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'mily.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'chsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: '2000.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'a710.com' }
+{ managers: 
+   [ 'Brenda Wright',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Katrina Brown',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Gindira Vetovick' ],
+  query: 'alty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'rlty.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'egal.com' }
+{ managers: [ 'Carol Williams' ], query: '6438.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'hael.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'h466.com' }
+{ managers: [ 'Lucille Smith' ], query: 'thil.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'za59.com' }
+{ managers: [ 'Gary Fogel' ], query: 'el50.com' }
+{ managers: [ 'Igor Gesky' ], query: 'esky.com' }
+{ managers: [ 'Tip Rivera' ], query: '3215.com' }
+{ managers: [ 'Teresa Thomas' ], query: '2006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'er16.com' }
+{ managers: [ 'Austin Huff' ], query: 'e126.com' }
+{ managers: [ 'Helen Adams' ], query: 'n956.com' }
+{ managers: [ 'Paige Lakey' ], query: 'akey.com' }
+{ managers: [ 'Eric Fair' ], query: 'iley.com' }
+{ managers: [ 'Carol Qualley', 'Hunter Swanson' ],
+  query: 'lley.com' }
+{ managers: [ 'Bill Shipley' ], query: 'pley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'uley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'wley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'amey.com' }
+{ managers: [ 'Melissa Da' ], query: 'easy.com' }
+{ managers: [ 'Fareeda Little' ], query: 'e070.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'rvey.com' }
+{ managers: [ 'Bernice Demith' ], query: '1960.com' }
+{ managers: 
+   [ 'Andrew Bannerman',
+     'John Mcpherson',
+     'Karen Davis',
+     'Patricia Block' ],
+  query: 'ewood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'nwood.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'ywood.com' }
+{ managers: [ 'Julia Medina' ], query: 'edina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'olina.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'incpa.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'tyltd.com' }
+{ managers: [ 'Ron Painter' ], query: 'dorff.com' }
+{ managers: [ 'Christina Jones' ], query: '@kpmg.com' }
+{ managers: [ 'Elaine R' ], query: 'field.com' }
+{ managers: [ 'Kia Hand' ], query: 'ahand.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'lloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'acook.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'laggi.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'bryfi.com' }
+{ managers: [ 'June Gaspar' ], query: 'olden.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'sbank.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'amily.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'mchsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'n2000.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'ha710.com' }
+{ managers: 
+   [ 'Brenda Wright',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Katrina Brown',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Gindira Vetovick' ],
+  query: 'ealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'erlty.com' }
+{ managers: [ 'Justin Lee' ], query: 'dermy.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'legal.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'shael.com' }
+{ managers: [ 'Lucille Smith' ], query: 'ithil.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'ch466.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'aza59.com' }
+{ managers: [ 'Carol Williams' ], query: 's6438.com' }
+{ managers: [ 'Gary Fogel' ], query: 'gel50.com' }
+{ managers: [ 'Igor Gesky' ], query: 'gesky.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'e2006.com' }
+{ managers: [ 'Tip Rivera' ], query: 'a3215.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'ler16.com' }
+{ managers: [ 'Austin Huff' ], query: 're126.com' }
+{ managers: [ 'Helen Adams' ], query: 'en956.com' }
+{ managers: [ 'Eric Fair' ], query: 'ailey.com' }
+{ managers: [ 'Carol Qualley', 'Hunter Swanson' ],
+  query: 'alley.com' }
+{ managers: [ 'Bill Shipley' ], query: 'ipley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'auley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'awley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'ramey.com' }
+{ managers: [ 'Melissa Da' ], query: '@easy.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'arvey.com' }
+{ managers: [ 'Bernice Demith' ], query: '_1960.com' }
+{ managers: [ 'Patricia Block' ], query: 'mewood.com' }
+{ managers: [ 'Andrew Bannerman', 'John Mcpherson', 'Karen Davis' ],
+  query: 'rewood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'enwood.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'eywood.com' }
+{ managers: [ 'Fareeda Little' ], query: 'le070.com' }
+{ managers: [ 'Julia Medina' ], query: 'medina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'molina.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'aincpa.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'ltyltd.com' }
+{ managers: [ 'Christina Jones' ], query: 's@kpmg.com' }
+{ managers: [ 'Ron Painter' ], query: 'gdorff.com' }
+{ managers: [ 'Elaine R' ], query: 'sfield.com' }
+{ managers: [ 'Kia Hand' ], query: 'iahand.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'nlloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'iacook.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'alaggi.com' }
+{ managers: [ 'Nadine Bryson' ], query: '@bryfi.com' }
+{ managers: [ 'June Gaspar' ], query: 'golden.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'fsbank.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'family.com' }
+{ managers: [ 'Matt Schwartz' ], query: '@mchsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'en2000.com' }
+{ managers: 
+   [ 'Brenda Wright',
+     'Cassey Smith',
+     'Chris Bacon',
+     'Cindy Roach',
+     'Claudia Van',
+     'Veryl Cortez',
+     'Damian Miller',
+     'David Neely',
+     'David Peltier',
+     'Doug E',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Heather Lawler',
+     'Jeanie E.',
+     'Judy Herr',
+     'Jacob Lex',
+     'Katrina Brown',
+     'Kelani Reppe',
+     'Laurie Milliken',
+     'Linda Garcia',
+     'Migue Wiles',
+     'Oscar Yelkin',
+     'Paula Caffarello',
+     'Rachel Cullen',
+     'Renee Kessler',
+     'Susie Mao',
+     'Sydney Pearson',
+     'Gindira Vetovick' ],
+  query: 'realty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'nerlty.com' }
+{ managers: [ 'Justin Lee' ], query: 'idermy.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'rlegal.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'sha710.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'ishael.com' }
+{ managers: [ 'Lucille Smith' ], query: 'mithil.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'tch466.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'taza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'ms6438.com' }
+{ managers: [ 'Gary Fogel' ], query: 'ogel50.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'ee2006.com' }
+{ managers: [ 'Tip Rivera' ], query: 'ra3215.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'ller16.com' }
+{ managers: [ 'Austin Huff' ], query: 'are126.com' }
+{ managers: [ 'Helen Adams' ], query: 'len956.com' }
+{ managers: [ 'Eric Fair' ], query: 'bailey.com' }
+{ managers: [ 'Carol Qualley' ], query: 'ualley.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'valley.com' }
+{ managers: [ 'Bill Shipley' ], query: 'hipley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'cauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'pawley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'aramey.com' }
+{ managers: [ 'Melissa Da' ], query: '0@easy.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'harvey.com' }
+{ managers: [ 'Bernice Demith' ], query: 'a_1960.com' }
+{ managers: [ 'Patricia Block' ], query: 'amewood.com' }
+{ managers: [ 'Andrew Bannerman', 'John Mcpherson', 'Karen Davis' ],
+  query: 'orewood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'eenwood.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'heywood.com' }
+{ managers: [ 'Fareeda Little' ], query: 'tle070.com' }
+{ managers: [ 'Julia Medina' ], query: 'amedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'amolina.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'maincpa.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'altyltd.com' }
+{ managers: [ 'Christina Jones' ], query: 'es@kpmg.com' }
+{ managers: [ 'Ron Painter' ], query: 'rgdorff.com' }
+{ managers: [ 'Kia Hand' ], query: 'kiahand.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'anlloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'niacook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'e@bryfi.com' }
+{ managers: [ 'June Gaspar' ], query: 'tgolden.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'palaggi.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'sfsbank.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'dfamily.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'z@mchsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'men2000.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Deylis Radar',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: 'arealty.com' }
+{ managers: [ 'Jacob Lex' ], query: 'crealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'drealty.com' }
+{ managers: 
+   [ 'Damian Miller',
+     'David Neely',
+     'Judy Herr',
+     'Paula Caffarello',
+     'Sydney Pearson' ],
+  query: 'erealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'grealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'hrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'lrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'mrealty.com' }
+{ managers: [ 'Chris Bacon', 'Laurie Milliken' ],
+  query: 'nrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'prealty.com' }
+{ managers: [ 'Doug E', 'Susie Mao', 'Gindira Vetovick' ],
+  query: 'rrealty.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'srealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'wrealty.com' }
+{ managers: [ 'Claudia Van', 'Oscar Yelkin' ],
+  query: 'yrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'zrealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'inerlty.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'wrlegal.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'isha710.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'mishael.com' }
+{ managers: [ 'Lucille Smith' ], query: 'smithil.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'itch466.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'rtaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'ams6438.com' }
+{ managers: [ 'Gary Fogel' ], query: 'fogel50.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'ree2006.com' }
+{ managers: [ 'Tip Rivera' ], query: 'era3215.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'eller16.com' }
+{ managers: [ 'Austin Huff' ], query: 'care126.com' }
+{ managers: [ 'Helen Adams' ], query: 'elen956.com' }
+{ managers: [ 'Eric Fair' ], query: 'cbailey.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'nvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'ccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'npawley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'aaramey.com' }
+{ managers: [ 'Melissa Da' ], query: '70@easy.com' }
+{ managers: [ 'Bill Shipley' ], query: 'shipley.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'nharvey.com' }
+{ managers: [ 'Bernice Demith' ], query: 'ma_1960.com' }
+{ managers: [ 'Patricia Block' ], query: 'iamewood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'reenwood.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'nheywood.com' }
+{ managers: [ 'Fareeda Little' ], query: 'ttle070.com' }
+{ managers: [ 'Julia Medina' ], query: 'iamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'damolina.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'amaincpa.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'ealtyltd.com' }
+{ managers: [ 'Christina Jones' ], query: 'nes@kpmg.com' }
+{ managers: [ 'Ron Painter' ], query: 'urgdorff.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'danlloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'iniacook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'ne@bryfi.com' }
+{ managers: [ 'Kia Hand' ], query: '@kiahand.com' }
+{ managers: [ 'Ale Palaggi' ], query: 'apalaggi.com' }
+{ managers: [ 'June Gaspar' ], query: 'itgolden.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'wsfsbank.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'rdfamily.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'tz@mchsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'emen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'icrealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'edrealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'cerealty.com' }
+{ managers: [ 'David Neely', 'Judy Herr' ],
+  query: 'lerealty.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'nerealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'serealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'ngrealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'ahrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'enrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'inrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'iprealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'ewrealty.com' }
+{ managers: [ 'Claudia Van' ], query: 'eyrealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'lyrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'ezrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'llrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'fmrealty.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: 'narealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'warealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'arrealty.com' }
+{ managers: [ 'Doug E', 'Susie Mao' ], query: 'errealty.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'rsrealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'hinerlty.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'hwrlegal.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'eisha710.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'ymishael.com' }
+{ managers: [ 'Lucille Smith' ], query: 'msmithil.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'ritch466.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'ertaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'iams6438.com' }
+{ managers: [ 'Gary Fogel' ], query: 'jfogel50.com' }
+{ managers: [ 'Tip Rivera' ], query: 'vera3215.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'zree2006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'weller16.com' }
+{ managers: [ 'Helen Adams' ], query: 'helen956.com' }
+{ managers: [ 'Austin Huff' ], query: 'ncare126.com' }
+{ managers: [ 'Eric Fair' ], query: 'icbailey.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'anvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: '@qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'mccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'onpawley.com' }
+{ managers: [ 'Amy Ramey' ], query: 'jaaramey.com' }
+{ managers: [ 'Melissa Da' ], query: '370@easy.com' }
+{ managers: [ 'Bill Shipley' ], query: 'lshipley.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'anharvey.com' }
+{ managers: [ 'Bernice Demith' ], query: 'mma_1960.com' }
+{ managers: [ 'Patricia Block' ], query: 'liamewood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'greenwood.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'ynheywood.com' }
+{ managers: [ 'Fareeda Little' ], query: 'ittle070.com' }
+{ managers: [ 'Julia Medina' ], query: 'liamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'ndamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'realtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: '@amaincpa.com' }
+{ managers: [ 'Christina Jones' ], query: 'ones@kpmg.com' }
+{ managers: [ 'Ron Painter' ], query: 'burgdorff.com' }
+{ managers: [ 'Dan Lloyd' ], query: '@danlloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'giniacook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'ine@bryfi.com' }
+{ managers: [ 'Kia Hand' ], query: 'a@kiahand.com' }
+{ managers: [ 'June Gaspar' ], query: 'xitgolden.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: '@wsfsbank.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'rtz@mchsi.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'ardfamily.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'semen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'nicrealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'fedrealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'acerealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'blerealty.com' }
+{ managers: [ 'David Neely' ], query: 'tlerealty.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'inerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'ongrealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'oserealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'aahrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'ziprealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'alyrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'iewrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'kenrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'winrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'tezrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'ellrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: '@fmrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'owarealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'tarrealty.com' }
+{ managers: [ 'Doug E' ], query: 'perrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'verrealty.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'ersrealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'shinerlty.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: 'inarealty.com' }
+{ managers: [ 'Denise Rahaim' ], query: '@hwrlegal.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'keisha710.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'eymishael.com' }
+{ managers: [ 'Lucille Smith' ], query: 'tmsmithil.com' }
+{ managers: [ 'Priscilla Ray' ], query: 'pritch466.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'bertaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'liams6438.com' }
+{ managers: [ 'Gary Fogel' ], query: 'gjfogel50.com' }
+{ managers: [ 'Tip Rivera' ], query: 'ivera3215.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'zzree2006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'dweller16.com' }
+{ managers: [ 'Helen Adams' ], query: 'ahelen956.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'ianvalley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'nmccauley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'l@qualley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'oonpawley.com' }
+{ managers: [ 'Eric Fair' ], query: 'ricbailey.com' }
+{ managers: [ 'Austin Huff' ], query: 'wncare126.com' }
+{ managers: [ 'Melissa Da' ], query: '8370@easy.com' }
+{ managers: [ 'Bill Shipley' ], query: 'llshipley.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'manharvey.com' }
+{ managers: [ 'Bernice Demith' ], query: 'amma_1960.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'lynheywood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'ygreenwood.com' }
+{ managers: [ 'Patricia Block' ], query: 'lliamewood.com' }
+{ managers: [ 'Fareeda Little' ], query: 'little070.com' }
+{ managers: [ 'Julia Medina' ], query: 'uliamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'andamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'grealtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'n@amaincpa.com' }
+{ managers: [ 'Christina Jones' ], query: 'jones@kpmg.com' }
+{ managers: [ 'Ron Painter' ], query: '@burgdorff.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'n@danlloyd.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'dine@bryfi.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'rginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'z@wsfsbank.com' }
+{ managers: [ 'Kia Hand' ], query: 'ia@kiahand.com' }
+{ managers: [ 'June Gaspar' ], query: 'exitgolden.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'hardfamily.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'artz@mchsi.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'rsemen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'enicrealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'nfedrealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'lacerealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'bblerealty.com' }
+{ managers: [ 'David Neely' ], query: 'ttlerealty.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'ainerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'longrealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'roserealty.com' }
+{ managers: [ 'Heather Lawler' ], query: '@aahrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: '@ziprealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'dalyrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'viewrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'ikenrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'gwinrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'rtezrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'wellrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'a@fmrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'iowarealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'starrealty.com' }
+{ managers: [ 'Doug E' ], query: 'uperrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'iverrealty.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: 'dinarealty.com' }
+{ managers: [ 'Denise Rahaim' ], query: '5@hwrlegal.com' }
+{ managers: [ 'Dara Snyder' ], query: 'nshinerlty.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'leymishael.com' }
+{ managers: [ 'MarKeisha Hasenauer' ], query: 'rkeisha710.com' }
+{ managers: [ 'Lucille Smith' ], query: 'otmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'tersrealty.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'lbertaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'lliams6438.com' }
+{ managers: [ 'Tip Rivera' ], query: 'rivera3215.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'azzree2006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'odweller16.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'dianvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'ol@qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'onmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'toonpawley.com' }
+{ managers: [ 'Eric Fair' ], query: 'ericbailey.com' }
+{ managers: [ 'Austin Huff' ], query: 'awncare126.com' }
+{ managers: [ 'Melissa Da' ], query: '98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'pmanharvey.com' }
+{ managers: [ 'Bernice Demith' ], query: 'mamma_1960.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'elynheywood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'nygreenwood.com' }
+{ managers: [ 'Julia Medina' ], query: 'juliamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'mandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'ngrealtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'in@amaincpa.com' }
+{ managers: [ 'Christina Jones' ], query: 'mjones@kpmg.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'an@danlloyd.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'irginiacook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'adine@bryfi.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'tz@wsfsbank.com' }
+{ managers: [ 'Kia Hand' ], query: 'kia@kiahand.com' }
+{ managers: [ 'June Gaspar' ], query: '@exitgolden.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'chardfamily.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'orsemen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'venicrealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'enfedrealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'ibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'placerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'wartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'mainerealty.com' }
+{ managers: [ 'David Neely' ], query: 'attlerealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'jroserealty.com' }
+{ managers: [ 'Cassey Smith' ], query: '@longrealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'r@aahrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 't@ziprealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: '@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'likenrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'nviewrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: '@gwinrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'owellrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'ortezrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'ia@fmrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: '@iowarealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'gstarrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'riverrealty.com' }
+{ managers: [ 'Doug E' ], query: 'superrealty.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: 'edinarealty.com' }
+{ managers: [ 'Denise Rahaim' ], query: '15@hwrlegal.com' }
+{ managers: [ 'Dara Snyder' ], query: 'unshinerlty.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'hleymishael.com' }
+{ managers: [ 'MarKeisha Hasenauer' ],
+  query: 'arkeisha710.com' }
+{ managers: [ 'Lucille Smith' ], query: 'hotmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'stersrealty.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'elbertaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'illiams6438.com' }
+{ managers: [ 'Tip Rivera' ], query: 'yrivera3215.com' }
+{ managers: [ 'Teresa Thomas' ], query: 'jazzree2006.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'rodweller16.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'ndianvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'rol@qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'sonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: '@toonpawley.com' }
+{ managers: [ 'Eric Fair' ], query: 'aericbailey.com' }
+{ managers: [ 'Austin Huff' ], query: 'lawncare126.com' }
+{ managers: [ 'Melissa Da' ], query: 's98370@easy.com' }
+{ managers: [ 'Bernice Demith' ], query: 'ymamma_1960.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'apmanharvey.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'celynheywood.com' }
+{ managers: [ 'Anthony Greenwood' ], query: 'onygreenwood.com' }
+{ managers: [ 'Julia Medina' ], query: '@juliamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'ingrealtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'vin@amaincpa.com' }
+{ managers: [ 'Christina Jones' ], query: 'cmjones@kpmg.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'virginiacook.com' }
+{ managers: [ 'Nadine Bryson' ], query: 'nadine@bryfi.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'itz@wsfsbank.com' }
+{ managers: [ 'June Gaspar' ], query: 'e@exitgolden.com' }
+{ managers: [ 'Dan Lloyd' ], query: 'dan@danlloyd.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'nchardfamily.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'horsemen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'rvenicrealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'hibblerealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'penfedrealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'rplacerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'hwartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'nmainerealty.com' }
+{ managers: [ 'David Neely' ], query: 'eattlerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 's@longrealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'djroserealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'ht@ziprealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'n@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'llikenrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'onviewrealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'er@aahrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 's@gwinrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'lowellrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'cortezrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'cia@fmrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'w@iowarealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'ngstarrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'priverrealty.com' }
+{ managers: [ 'Doug E' ], query: '@superrealty.com' }
+{ managers: 
+   [ 'Cindy Roach',
+     'David Peltier',
+     'Earl Erickson-',
+     'Jeanie E.',
+     'Rachel Cullen' ],
+  query: '@edinarealty.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'l15@hwrlegal.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'shleymishael.com' }
+{ managers: [ 'Dara Snyder' ], query: 'sunshinerlty.com' }
+{ managers: [ 'Lucille Smith' ], query: '@hotmsmithil.com' }
+{ managers: [ 'MarKeisha Hasenauer' ],
+  query: 'markeisha710.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'astersrealty.com' }
+{ managers: [ 'Delberta Cardinal' ], query: 'delbertaza59.com' }
+{ managers: [ 'Carol Williams' ], query: 'williams6438.com' }
+{ managers: [ 'Tip Rivera' ], query: 'nyrivera3215.com' }
+{ managers: [ 'Kurt Rodweller' ], query: 'krodweller16.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'indianvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'arol@qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'nsonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'e@toonpawley.com' }
+{ managers: [ 'Austin Huff' ], query: 'flawncare126.com' }
+{ managers: [ 'Melissa Da' ], query: 'ss98370@easy.com' }
+{ managers: [ 'Bernice Demith' ], query: 'gymamma_1960.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'hapmanharvey.com' }
+{ managers: [ 'Anthony Greenwood' ],
+  query: 'honygreenwood.com' }
+{ managers: [ 'Julia Medina' ], query: 'a@juliamedina.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'ocelynheywood.com' }
+{ managers: [ 'Amanda Molina' ], query: '@amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'lingrealtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'evin@amaincpa.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: '@virginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ], query: 'witz@wsfsbank.com' }
+{ managers: [ 'June Gaspar' ], query: 'ne@exitgolden.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'anchardfamily.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'xhorsemen2000.com' }
+{ managers: [ 'Jacob Lex' ], query: 'ervenicrealty.com' }
+{ managers: [ 'Judy Herr' ], query: '@hibblerealty.com' }
+{ managers: [ 'Migue Wiles' ], query: '@penfedrealty.com' }
+{ managers: [ 'Paula Caffarello' ], query: 'urplacerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'chwartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'rnmainerealty.com' }
+{ managers: [ 'David Neely' ], query: 'seattlerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'ys@longrealty.com' }
+{ managers: [ 'Damian Miller' ], query: '@djroserealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'ght@ziprealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'in@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'illikenrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'sonviewrealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'her@aahrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'is@gwinrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: '@cortezrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'tlowellrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'rcia@fmrealty.com' }
+{ managers: [ 'Gindira Vetovick' ], query: 'ingstarrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'sw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'mpriverrealty.com' }
+{ managers: [ 'Doug E' ], query: 'e@superrealty.com' }
+{ managers: [ 'Cindy Roach' ], query: 'h@edinarealty.com' }
+{ managers: [ 'Earl Erickson-', 'Jeanie E.', 'Rachel Cullen' ],
+  query: 'n@edinarealty.com' }
+{ managers: [ 'David Peltier' ], query: 'r@edinarealty.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'hl15@hwrlegal.com' }
+{ managers: [ 'Dara Snyder' ], query: '@sunshinerlty.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'ashleymishael.com' }
+{ managers: [ 'MarKeisha Hasenauer' ],
+  query: 'bmarkeisha710.com' }
+{ managers: [ 'Lucille Smith' ], query: 's@hotmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'mastersrealty.com' }
+{ managers: [ 'Carol Williams' ], query: 'kwilliams6438.com' }
+{ managers: [ 'Tip Rivera' ], query: 'anyrivera3215.com' }
+{ managers: [ 'Hunter Swanson' ], query: '@indianvalley.com' }
+{ managers: [ 'Carol Qualley' ], query: 'carol@qualley.com' }
+{ managers: [ 'Bronson McCauley' ], query: 'onsonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'me@toonpawley.com' }
+{ managers: [ 'Austin Huff' ], query: 'fflawncare126.com' }
+{ managers: [ 'Melissa Da' ], query: 'ess98370@easy.com' }
+{ managers: [ 'Bernice Demith' ], query: 'ggymamma_1960.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'chapmanharvey.com' }
+{ managers: [ 'Delberta Cardinal' ],
+  query: 'edelbertaza59.com' }
+{ managers: [ 'Anthony Greenwood' ],
+  query: 'thonygreenwood.com' }
+{ managers: [ 'Julia Medina' ], query: 'ia@juliamedina.com' }
+{ managers: [ 'Jocelyn Heywood' ], query: 'jocelynheywood.com' }
+{ managers: [ 'Amanda Molina' ], query: 'a@amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'rlingrealtyltd.com' }
+{ managers: [ 'Kevin LaCrosse' ], query: 'kevin@amaincpa.com' }
+{ managers: [ 'Betty Creamer', 'Vera Taylor' ],
+  query: 'r@virginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'owitz@wsfsbank.com' }
+{ managers: [ 'June Gaspar' ], query: 'une@exitgolden.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'lanchardfamily.com' }
+{ managers: [ 'Jacob Lex' ], query: 'hervenicrealty.com' }
+{ managers: [ 'Roderick Ellmyer-Matulewicz' ],
+  query: 'txhorsemen2000.com' }
+{ managers: [ 'Migue Wiles' ], query: 's@penfedrealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'r@hibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'ourplacerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'schwartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'ernmainerealty.com' }
+{ managers: [ 'David Neely' ], query: 'yseattlerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'eys@longrealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'd@djroserealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'kin@dalyrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'ight@ziprealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'dsonviewrealty.com' }
+{ managers: [ 'Laurie Milliken' ], query: 'millikenrealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'ther@aahrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'ris@gwinrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: '2@cortezrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'arcia@fmrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'rtlowellrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'singstarrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'isw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'umpriverrealty.com' }
+{ managers: [ 'Doug E' ], query: 'de@superrealty.com' }
+{ managers: [ 'Cindy Roach' ], query: 'ch@edinarealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'an@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ], query: 'en@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ], query: 'nn@edinarealty.com' }
+{ managers: [ 'David Peltier' ], query: 'er@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ], query: '@ashleymishael.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'ehl15@hwrlegal.com' }
+{ managers: [ 'Dara Snyder' ], query: 'a@sunshinerlty.com' }
+{ managers: [ 'MarKeisha Hasenauer' ],
+  query: 'qbmarkeisha710.com' }
+{ managers: [ 'Lucille Smith' ], query: 'es@hotmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'ymastersrealty.com' }
+{ managers: [ 'Carol Williams' ], query: 'ckwilliams6438.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'n@indianvalley.com' }
+{ managers: [ 'Tip Rivera' ], query: 'fanyrivera3215.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'ronsonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'ime@toonpawley.com' }
+{ managers: [ 'Austin Huff' ], query: 'ufflawncare126.com' }
+{ managers: [ 'Melissa Da' ], query: 'cess98370@easy.com' }
+{ managers: [ 'Bernice Demith' ], query: 'oggymamma_1960.com' }
+{ managers: [ 'Kayla Harvey' ], query: '@chapmanharvey.com' }
+{ managers: [ 'Anthony Greenwood' ],
+  query: 'nthonygreenwood.com' }
+{ managers: [ 'Julia Medina' ], query: 'lia@juliamedina.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: '@jocelynheywood.com' }
+{ managers: [ 'Amanda Molina' ], query: 'da@amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'erlingrealtyltd.com' }
+{ managers: [ 'Betty Creamer' ], query: 'er@virginiacook.com' }
+{ managers: [ 'Vera Taylor' ], query: 'or@virginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'kowitz@wsfsbank.com' }
+{ managers: [ 'June Gaspar' ], query: 'june@exitgolden.com' }
+{ managers: [ 'Mike Blanchard' ], query: 'blanchardfamily.com' }
+{ managers: [ 'Jacob Lex' ], query: 'chervenicrealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'es@penfedrealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'rr@hibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'yourplacerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'wschwartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ], query: 'ternmainerealty.com' }
+{ managers: [ 'David Neely' ], query: 'myseattlerealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'rd@djroserealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'seys@longrealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'lkin@dalyrealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'udsonviewrealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: '@millikenrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'right@ziprealty.com' }
+{ managers: [ 'Heather Lawler' ], query: 'ather@aahrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'hris@gwinrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'z2@cortezrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'garcia@fmrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'ortlowellrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'isingstarrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'lisw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'jumpriverrealty.com' }
+{ managers: [ 'Cindy Roach' ], query: 'ach@edinarealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'man@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ], query: 'len@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ], query: 'ann@edinarealty.com' }
+{ managers: [ 'David Peltier' ], query: 'ier@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ], query: 'y@ashleymishael.com' }
+{ managers: [ 'Denise Rahaim' ], query: 'kehl15@hwrlegal.com' }
+{ managers: [ 'Dara Snyder' ], query: 'ra@sunshinerlty.com' }
+{ managers: [ 'Lucille Smith' ], query: 'yes@hotmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'tymastersrealty.com' }
+{ managers: [ 'Hunter Swanson' ], query: 'on@indianvalley.com' }
+{ managers: [ 'Tip Rivera' ], query: 'ffanyrivera3215.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'bronsonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'aime@toonpawley.com' }
+{ managers: [ 'Austin Huff' ], query: 'hufflawncare126.com' }
+{ managers: [ 'Melissa Da' ], query: 'ncess98370@easy.com' }
+{ managers: [ 'Bernice Demith' ], query: 'roggymamma_1960.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'h@chapmanharvey.com' }
+{ managers: [ 'Anthony Greenwood' ],
+  query: 'anthonygreenwood.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: 's@jocelynheywood.com' }
+{ managers: [ 'Julia Medina' ], query: 'ulia@juliamedina.com' }
+{ managers: [ 'Amanda Molina' ], query: 'nda@amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'terlingrealtyltd.com' }
+{ managers: [ 'Vera Taylor' ], query: 'lor@virginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'rkowitz@wsfsbank.com' }
+{ managers: [ 'Mike Blanchard' ],
+  query: 'eblanchardfamily.com' }
+{ managers: [ 'Jacob Lex' ], query: '@chervenicrealty.com' }
+{ managers: [ 'Betty Creamer' ], query: 'mer@virginiacook.com' }
+{ managers: [ 'Migue Wiles' ], query: 'les@penfedrealty.com' }
+{ managers: [ 'Judy Herr' ], query: 'err@hibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: '@yourplacerealty.com' }
+{ managers: [ 'Matt Schwartz' ], query: 'mwschwartz@mchsi.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'sternmainerealty.com' }
+{ managers: [ 'Damian Miller' ], query: 'ard@djroserealty.com' }
+{ managers: [ 'David Neely' ], query: '@myseattlerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'sseys@longrealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'elkin@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'e@millikenrealty.com' }
+{ managers: [ 'Brenda Wright' ], query: 'wright@ziprealty.com' }
+{ managers: [ 'Katrina Brown' ], query: 'hudsonviewrealty.com' }
+{ managers: [ 'Heather Lawler' ],
+  query: 'eather@aahrealty.com' }
+{ managers: [ 'Chris Bacon' ], query: 'chris@gwinrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'ez2@cortezrealty.com' }
+{ managers: [ 'Linda Garcia' ], query: 'lgarcia@fmrealty.com' }
+{ managers: [ 'Renee Kessler' ], query: 'fortlowellrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'risingstarrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'ylisw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: '@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'rman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ], query: 'llen@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'mann@edinarealty.com' }
+{ managers: [ 'David Peltier' ], query: 'tier@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ],
+  query: 'ey@ashleymishael.com' }
+{ managers: [ 'Cindy Roach' ], query: 'oach@edinarealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'ara@sunshinerlty.com' }
+{ managers: [ 'Lucille Smith' ], query: 'eyes@hotmsmithil.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'rtymastersrealty.com' }
+{ managers: [ 'Tip Rivera' ], query: 'iffanyrivera3215.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: '@bronsonmccauley.com' }
+{ managers: [ 'Jaime Timms' ], query: 'jaime@toonpawley.com' }
+{ managers: [ 'Bernice Demith' ],
+  query: 'froggymamma_1960.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'son@indianvalley.com' }
+{ managers: [ 'Melissa Da' ], query: 'incess98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'ah@chapmanharvey.com' }
+{ managers: [ 'Julia Medina' ], query: 'julia@juliamedina.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: 'es@jocelynheywood.com' }
+{ managers: [ 'Amanda Molina' ],
+  query: 'anda@amandamolina.com' }
+{ managers: [ 'Don Phaneuf' ], query: 'sterlingrealtyltd.com' }
+{ managers: [ 'Vera Taylor' ], query: 'ylor@virginiacook.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'erkowitz@wsfsbank.com' }
+{ managers: [ 'Mike Blanchard' ],
+  query: 'heblanchardfamily.com' }
+{ managers: [ 'Betty Creamer' ],
+  query: 'amer@virginiacook.com' }
+{ managers: [ 'Judy Herr' ], query: 'herr@hibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'a@yourplacerealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'iles@penfedrealty.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'esternmainerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'lard@djroserealty.com' }
+{ managers: [ 'David Neely' ], query: 'd@myseattlerealty.com' }
+{ managers: [ 'Cassey Smith' ], query: 'asseys@longrealty.com' }
+{ managers: [ 'Oscar Yelkin' ], query: 'yelkin@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'ie@millikenrealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: '@hudsonviewrealty.com' }
+{ managers: [ 'Jacob Lex' ], query: 'x@chervenicrealty.com' }
+{ managers: [ 'Heather Lawler' ],
+  query: 'heather@aahrealty.com' }
+{ managers: [ 'Veryl Cortez' ], query: 'tez2@cortezrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'zrisingstarrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: '@fortlowellrealty.com' }
+{ managers: [ 'Deylis Radar' ], query: 'eylisw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'e@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'erman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'ullen@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'hmann@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'ltier@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ],
+  query: 'ley@ashleymishael.com' }
+{ managers: [ 'Cindy Roach' ], query: 'roach@edinarealty.com' }
+{ managers: [ 'Dara Snyder' ], query: 'dara@sunshinerlty.com' }
+{ managers: [ 'Kelani Reppe' ], query: 'ertymastersrealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'reyes@hotmsmithil.com' }
+{ managers: [ 'Tip Rivera' ], query: 'tiffanyrivera3215.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'n@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'nson@indianvalley.com' }
+{ managers: [ 'Melissa Da' ], query: 'rincess98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ], query: 'lah@chapmanharvey.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: 'mes@jocelynheywood.com' }
+{ managers: [ 'Don Phaneuf' ], query: '@sterlingrealtyltd.com' }
+{ managers: [ 'Vera Taylor' ], query: 'aylor@virginiacook.com' }
+{ managers: [ 'Amanda Molina' ],
+  query: 'manda@amandamolina.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'berkowitz@wsfsbank.com' }
+{ managers: [ 'Mike Blanchard' ],
+  query: 'theblanchardfamily.com' }
+{ managers: [ 'Betty Creamer' ],
+  query: 'eamer@virginiacook.com' }
+{ managers: [ 'Judy Herr' ], query: 'jherr@hibblerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'la@yourplacerealty.com' }
+{ managers: [ 'Migue Wiles' ], query: 'wiles@penfedrealty.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'westernmainerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'llard@djroserealty.com' }
+{ managers: [ 'David Neely' ], query: 'id@myseattlerealty.com' }
+{ managers: [ 'Cassey Smith' ],
+  query: 'casseys@longrealty.com' }
+{ managers: [ 'Oscar Yelkin' ],
+  query: 'ryelkin@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'rie@millikenrealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'a@hudsonviewrealty.com' }
+{ managers: [ 'Jacob Lex' ], query: 'ex@chervenicrealty.com' }
+{ managers: [ 'Veryl Cortez' ],
+  query: 'rtez2@cortezrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: 'e@fortlowellrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'azrisingstarrealty.com' }
+{ managers: [ 'Deylis Radar' ],
+  query: 'deylisw@iowarealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'ie@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'herman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'cullen@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'chmann@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'eltier@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ],
+  query: 'hley@ashleymishael.com' }
+{ managers: [ 'Cindy Roach' ], query: 'yroach@edinarealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'pertymastersrealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'hreyes@hotmsmithil.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'on@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'anson@indianvalley.com' }
+{ managers: [ 'Melissa Da' ], query: 'princess98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ],
+  query: 'ylah@chapmanharvey.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: 'omes@jocelynheywood.com' }
+{ managers: [ 'Don Phaneuf' ],
+  query: 'n@sterlingrealtyltd.com' }
+{ managers: [ 'Vera Taylor' ],
+  query: 'taylor@virginiacook.com' }
+{ managers: [ 'Amanda Molina' ],
+  query: 'amanda@amandamolina.com' }
+{ managers: [ 'Nathan Berkowitz' ],
+  query: 'nberkowitz@wsfsbank.com' }
+{ managers: [ 'Betty Creamer' ],
+  query: 'reamer@virginiacook.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'ula@yourplacerealty.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: '@westernmainerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'ollard@djroserealty.com' }
+{ managers: [ 'David Neely' ],
+  query: 'vid@myseattlerealty.com' }
+{ managers: [ 'Oscar Yelkin' ],
+  query: 'aryelkin@dalyrealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'urie@millikenrealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'na@hudsonviewrealty.com' }
+{ managers: [ 'Veryl Cortez' ],
+  query: 'ortez2@cortezrealty.com' }
+{ managers: [ 'Jacob Lex' ], query: 'lex@chervenicrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: '@azrisingstarrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: 'ee@fortlowellrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'sie@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'sherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'lcullen@edinarealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'schmann@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'peltier@edinarealty.com' }
+{ managers: [ 'Cindy Roach' ],
+  query: 'dyroach@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ],
+  query: 'shley@ashleymishael.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'opertymastersrealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'threyes@hotmsmithil.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'son@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'wanson@indianvalley.com' }
+{ managers: [ 'Melissa Da' ], query: 'sprincess98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ],
+  query: 'aylah@chapmanharvey.com' }
+{ managers: [ 'Don Phaneuf' ],
+  query: 'on@sterlingrealtyltd.com' }
+{ managers: [ 'Jocelyn Heywood' ],
+  query: 'homes@jocelynheywood.com' }
+{ managers: [ 'Vera Taylor' ],
+  query: 'ataylor@virginiacook.com' }
+{ managers: [ 'Betty Creamer' ],
+  query: 'creamer@virginiacook.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'y@westernmainerealty.com' }
+{ managers: [ 'David Neely' ],
+  query: 'avid@myseattlerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'pollard@djroserealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'aula@yourplacerealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'aurie@millikenrealty.com' }
+{ managers: [ 'Oscar Yelkin' ],
+  query: 'caryelkin@dalyrealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'ina@hudsonviewrealty.com' }
+{ managers: [ 'Veryl Cortez' ],
+  query: 'cortez2@cortezrealty.com' }
+{ managers: [ 'Jacob Lex' ], query: 'jlex@chervenicrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'k@azrisingstarrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: 'nee@fortlowellrealty.com' }
+{ managers: [ 'Susie Mao' ], query: 'usie@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ], query: 'esherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'elcullen@edinarealty.com' }
+{ managers: [ 'Cindy Roach' ],
+  query: 'ndyroach@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'dpeltier@edinarealty.com' }
+{ managers: [ 'Ashley Mishael' ],
+  query: 'ashley@ashleymishael.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'ropertymastersrealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'ithreyes@hotmsmithil.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'eschmann@edinarealty.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'nson@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'swanson@indianvalley.com' }
+{ managers: [ 'Melissa Da' ],
+  query: 'jsprincess98370@easy.com' }
+{ managers: [ 'Kayla Harvey' ],
+  query: 'kaylah@chapmanharvey.com' }
+{ managers: [ 'Don Phaneuf' ],
+  query: 'don@sterlingrealtyltd.com' }
+{ managers: [ 'Vera Taylor' ],
+  query: 'rataylor@virginiacook.com' }
+{ managers: [ 'Betty Creamer' ],
+  query: 'bcreamer@virginiacook.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'ey@westernmainerealty.com' }
+{ managers: [ 'David Neely' ],
+  query: 'david@myseattlerealty.com' }
+{ managers: [ 'Paula Caffarello' ],
+  query: 'paula@yourplacerealty.com' }
+{ managers: [ 'Laurie Milliken' ],
+  query: 'laurie@millikenrealty.com' }
+{ managers: [ 'Oscar Yelkin' ],
+  query: 'scaryelkin@dalyrealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'rina@hudsonviewrealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'rpollard@djroserealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'ck@azrisingstarrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: 'enee@fortlowellrealty.com' }
+{ managers: [ 'Susie Mao' ],
+  query: 'susie@jumpriverrealty.com' }
+{ managers: [ 'Jeanie E.' ],
+  query: 'iesherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'helcullen@edinarealty.com' }
+{ managers: [ 'Cindy Roach' ],
+  query: 'indyroach@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'idpeltier@edinarealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'propertymastersrealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'mithreyes@hotmsmithil.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'ieschmann@edinarealty.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'onson@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'rswanson@indianvalley.com' }
+{ managers: [ 'Vera Taylor' ],
+  query: 'erataylor@virginiacook.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'ney@westernmainerealty.com' }
+{ managers: [ 'Oscar Yelkin' ],
+  query: 'oscaryelkin@dalyrealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'nrpollard@djroserealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'trina@hudsonviewrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'ick@azrisingstarrealty.com' }
+{ managers: [ 'Renee Kessler' ],
+  query: 'renee@fortlowellrealty.com' }
+{ managers: [ 'Jeanie E.' ],
+  query: 'niesherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'chelcullen@edinarealty.com' }
+{ managers: [ 'Cindy Roach' ],
+  query: 'cindyroach@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'vidpeltier@edinarealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: '@propertymastersrealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'rieschmann@edinarealty.com' }
+{ managers: [ 'Lucille Smith' ],
+  query: 'smithreyes@hotmsmithil.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'erswanson@indianvalley.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'ronson@bronsonmccauley.com' }
+{ managers: [ 'Vera Taylor' ],
+  query: 'verataylor@virginiacook.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'dney@westernmainerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'anrpollard@djroserealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'atrina@hudsonviewrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'vick@azrisingstarrealty.com' }
+{ managers: [ 'Jeanie E.' ],
+  query: 'aniesherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'achelcullen@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'avidpeltier@edinarealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'e@propertymastersrealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'trieschmann@edinarealty.com' }
+{ managers: [ 'Bronson McCauley' ],
+  query: 'bronson@bronsonmccauley.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'terswanson@indianvalley.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'ydney@westernmainerealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'ianrpollard@djroserealty.com' }
+{ managers: [ 'Katrina Brown' ],
+  query: 'katrina@hudsonviewrealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'ovick@azrisingstarrealty.com' }
+{ managers: [ 'Jeanie E.' ],
+  query: 'eaniesherman@edinarealty.com' }
+{ managers: [ 'Rachel Cullen' ],
+  query: 'rachelcullen@edinarealty.com' }
+{ managers: [ 'David Peltier' ],
+  query: 'davidpeltier@edinarealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'pe@propertymastersrealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'ltrieschmann@edinarealty.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'nterswanson@indianvalley.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'mianrpollard@djroserealty.com' }
+{ managers: [ 'Sydney Pearson' ],
+  query: 'sydney@westernmainerealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'tovick@azrisingstarrealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'ppe@propertymastersrealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'rltrieschmann@edinarealty.com' }
+{ managers: [ 'Hunter Swanson' ],
+  query: 'unterswanson@indianvalley.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'amianrpollard@djroserealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'etovick@azrisingstarrealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'eppe@propertymastersrealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'arltrieschmann@edinarealty.com' }
+{ managers: [ 'Gindira Vetovick' ],
+  query: 'vetovick@azrisingstarrealty.com' }
+{ managers: [ 'Kelani Reppe' ],
+  query: 'reppe@propertymastersrealty.com' }
+{ managers: [ 'Damian Miller' ],
+  query: 'damianrpollard@djroserealty.com' }
+{ managers: [ 'Earl Erickson-' ],
+  query: 'earltrieschmann@edinarealty.com' }

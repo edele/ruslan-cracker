@@ -10,7 +10,13 @@ const logger = {
     }
 }
 
-completeEmails({ managersForQuery, logger }, '.com')
+// completeEmails({ managersForQuery, logger }, process.argv[2])
+//     .then(response => {
+//         console.log(response)
+//     })
+
+completeEmails({ managersForQuery, logger }, require('./single.json').slice(0, 5))
     .then(response => {
         console.log(response)
     })
+    .catch(x => console.error(x));
